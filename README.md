@@ -1,8 +1,8 @@
-<!-- README copy: Ascension Writer (site-copy/repo-1.md, Oct 25, 2026). The three Engineer TODOs are filled in by the Engineer and await the Writer's check. -->
+<!-- README copy: Ascension Writer (site-copy/repo-1.md, Oct 25, 2026), with the Engineer's TODO fills as edited by the Writer. -->
 
 # Ascension open data
 
-Daily and weekly ranks of consumer AI apps from [Ascension](https://ascension.fyi), a daily leaderboard that blends the App Store and Google Play charts into one board. This repo mirrors the open-data files published at https://ascension.fyi/data/.
+Daily and weekly ranks of consumer AI apps from [Ascension](https://ascension.fyi), a daily leaderboard that blends the App Store and Google Play charts into one board. This repo mirrors the open-data files listed in [ascension.fyi/data/index.json](https://ascension.fyi/data/index.json). Download links and citation help are on the [press page](https://ascension.fyi/press/).
 
 The files hold ranks only.
 
@@ -13,7 +13,7 @@ The files hold ranks only.
 - `daily/latest.*` and `weekly/latest.*`: copies of the newest file.
 - `index.json`: every dated file, with the credit line and license.
 
-This repo, [lmken/ascension-data](https://github.com/lmken/ascension-data), uses exactly this layout: `daily/`, `weekly/`, and `index.json` at the top level, next to this README and the LICENSE file. It mirrors only those files. The weekly top 10 (`/week/YYYY-MM-DD/top.csv`), `leaderboard.json`, and `climbers.json` aren't mirrored here; you can get them from https://ascension.fyi/press/.
+This repo, [lmken/ascension-data](https://github.com/lmken/ascension-data), has `daily/`, `weekly/`, and `index.json` at the top level, next to this README and the LICENSE file. The weekly top 10 (`top.csv`), `leaderboard.json`, and `climbers.json` aren't mirrored here, but you can download them from the [press page](https://ascension.fyi/press/).
 
 ## Updates
 
