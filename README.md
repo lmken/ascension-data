@@ -1,53 +1,50 @@
-<!-- PLACEHOLDER COPY (REPO-1, Oct 25, 2026): written by the Engineer as a stand-in. The Writer will approve or replace
-     every line of this README before the repo goes public. Do not treat this wording as final. -->
-
-> **PLACEHOLDER:** this README is draft copy awaiting the Writer's review.
+<!-- README copy: Ascension Writer (site-copy/repo-1.md, Oct 25, 2026). The three Engineer TODOs are filled in by the Engineer and await the Writer's check. -->
 
 # Ascension open data
 
-Daily and weekly ranks for consumer AI apps on the App Store and Google Play, from
-[Ascension](https://ascension.fyi). This repo mirrors the open data files published at
-[ascension.fyi/press/](https://ascension.fyi/press/#open-data).
+Daily and weekly ranks of consumer AI apps from [Ascension](https://ascension.fyi), a daily leaderboard that blends the App Store and Google Play charts into one board. This repo mirrors the open-data files published at https://ascension.fyi/data/.
 
-## What's in it
+The files hold ranks only.
 
-| Path | What it is |
-| --- | --- |
-| `daily/YYYY-MM-DD.csv` / `.json` | Every app on that day's board (US Eastern time), in rank order |
-| `daily/latest.csv` / `.json` | Same content as the newest daily file |
-| `weekly/YYYY-MM-DD.csv` / `.json` | The full board as frozen each Friday, named for the Monday of the week |
-| `weekly/latest.csv` / `.json` | Same content as the newest weekly file |
-| `index.json` | Every dated file, with the credit line and license |
+## What's here
 
-Every file has the same five columns:
+- `daily/YYYY-MM-DD.csv` and `.json`: one board per day, in US Eastern time (that day's last read). History starts Oct 19, 2026.
+- `weekly/YYYY-MM-DD.csv` and `.json`: the full board as frozen each Friday, named for the Monday of the week.
+- `daily/latest.*` and `weekly/latest.*`: copies of the newest file.
+- `index.json`: every dated file, with the credit line and license.
 
-- `rank`: position on the blended App Store + Google Play board of consumer AI apps
-- `app`: the app's name
-- `platform`: `ios`, `android`, or `ios+android`
-- `change`: places moved since the previous day or week (positive = up), `new` if the app wasn't on the previous board, or empty when there's no comparable previous board
-- `date`: the day (daily files) or the Monday of the week (weekly files), as YYYY-MM-DD
+This repo, [lmken/ascension-data](https://github.com/lmken/ascension-data), uses exactly this layout: `daily/`, `weekly/`, and `index.json` at the top level, next to this README and the LICENSE file. It mirrors only those files. The weekly top 10 (`/week/YYYY-MM-DD/top.csv`), `leaderboard.json`, and `climbers.json` aren't mirrored here; you can get them from https://ascension.fyi/press/.
 
-Ranks come from public App Store and Google Play charts. They aren't download or revenue figures.
+## Updates
 
-## How often it updates
+The board updates daily at around 6 AM ET, and a new weekly file is added every Friday. Dated files don't change once they're written.
 
-Daily, right after Ascension's refresh at around 6 AM ET. Weekly files are added every Friday.
-Dated files never change once they're written.
+This repo syncs right after the site's daily build and live check, at around 6 AM ET. It only gets a new commit when a file changed.
+
+## Fields
+
+CSV and JSON files share the same five fields. JSON files also carry a `meta` object with the title, date, source URL, credit line, and license.
+
+| Field | Meaning |
+|---|---|
+| `rank` | Position on the blended App Store and Google Play board, starting at 1. |
+| `app` | The app's name as shown on the board. |
+| `platform` | `ios`, `android`, or `ios+android`. An app on both stores is ranked once. |
+| `change` | Places moved since the previous day (weekly files: previous week). Positive means up. `new` if the app wasn't on the previous board. Empty (null in JSON) if there's no comparable earlier board. |
+| `date` | Daily files: the day in US Eastern time. Weekly files: the Monday of the week. Both YYYY-MM-DD. |
 
 ## License
 
-The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can share and
-adapt it, including for commercial use, as long as you credit it as "Data powered by Ascension (ascension.fyi)"
-and link to [https://ascension.fyi](https://ascension.fyi) when you can. Full text: [LICENSE](LICENSE).
+The data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can share and adapt it, including for commercial use, as long as you credit it as "Data powered by Ascension (ascension.fyi)" and link to [ascension.fyi](https://ascension.fyi) when you can.
 
-## How to cite it
+This repo includes a [LICENSE](LICENSE) file with the full CC BY 4.0 text.
+
+## How to cite
 
 Use this line, and link "Ascension" to ascension.fyi when you can:
 
 > Data powered by Ascension (ascension.fyi)
 
-In a sentence:
+In a sentence: "[App] ranked No. [rank] on the Ascension leaderboard of consumer AI apps on [date], according to data powered by Ascension."
 
-> [App] ranked No. [rank] on the [store] [chart] in [country] for the week of [date], according to data powered by Ascension.
-
-Rankings move every day, so name the date you're citing. It's in each file.
+Ranks move every day, so name the date you're citing. More on citing the data: https://ascension.fyi/press/
