@@ -1,0 +1,74 @@
+{
+ "title": "Ascension open data",
+ "source": "Ascension",
+ "url": "https://ascension.fyi/press/",
+ "attribution": "Data powered by Ascension (ascension.fyi)",
+ "license": "CC BY 4.0",
+ "license_url": "https://creativecommons.org/licenses/by/4.0/",
+ "license_note": "The data is licensed under CC BY 4.0. You can share and adapt it, including for commercial use, as long as you credit it as \"Data powered by Ascension (ascension.fyi)\".",
+ "fields": [
+  "rank",
+  "app",
+  "platform",
+  "change",
+  "date"
+ ],
+ "scheme": {
+  "daily": "https://ascension.fyi/data/daily/YYYY-MM-DD.{csv,json}",
+  "daily_latest": "https://ascension.fyi/data/daily/latest.{csv,json}",
+  "weekly": "https://ascension.fyi/data/weekly/YYYY-MM-DD.{csv,json} (Monday of the week)",
+  "weekly_latest": "https://ascension.fyi/data/weekly/latest.{csv,json}"
+ },
+ "daily": [
+  {
+   "date": "2026-10-25",
+   "rows": 70,
+   "csv": "https://ascension.fyi/data/daily/2026-10-25.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-25.json"
+  },
+  {
+   "date": "2026-10-24",
+   "rows": 69,
+   "csv": "https://ascension.fyi/data/daily/2026-10-24.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-24.json"
+  },
+  {
+   "date": "2026-10-23",
+   "rows": 73,
+   "csv": "https://ascension.fyi/data/daily/2026-10-23.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-23.json"
+  },
+  {
+   "date": "2026-10-22",
+   "rows": 72,
+   "csv": "https://ascension.fyi/data/daily/2026-10-22.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-22.json"
+  },
+  {
+   "date": "2026-10-21",
+   "rows": 70,
+   "csv": "https://ascension.fyi/data/daily/2026-10-21.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-21.json"
+  },
+  {
+   "date": "2026-10-20",
+   "rows": 66,
+   "csv": "https://ascension.fyi/data/daily/2026-10-20.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-20.json"
+  },
+  {
+   "date": "2026-10-19",
+   "rows": 69,
+   "csv": "https://ascension.fyi/data/daily/2026-10-19.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-19.json"
+  }
+ ],
+ "weekly": [
+  {
+   "date": "2026-10-19",
+   "rows": 73,
+   "csv": "https://ascension.fyi/data/weekly/2026-10-19.csv",
+   "json": "https://ascension.fyi/data/weekly/2026-10-19.json"
+  }
+ ]
+}
