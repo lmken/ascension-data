@@ -9,7 +9,7 @@ The files hold ranks only.
 ## What's here
 
 - `daily/YYYY-MM-DD.csv` and `.json`: one board per day, in US Eastern time (that day's last read). History starts Oct 19, 2026.
-- `weekly/YYYY-MM-DD.csv` and `.json`: the full board as frozen each Friday, named for the Monday of the week.
+- `weekly/YYYY-MM-DD.csv` and `.json`: the full board as frozen each Thursday, named for the Monday of the week.
 - `daily/latest.*` and `weekly/latest.*`: copies of the newest file.
 - `index.json`: every dated file, with the credit line and license.
 
@@ -17,7 +17,7 @@ This repo, [lmken/ascension-data](https://github.com/lmken/ascension-data), has 
 
 ## Updates
 
-The board updates daily at around 6 AM ET, and a new weekly file is added every Friday. Dated files don't change once they're written.
+The board updates daily at around 6 AM ET, and a new weekly file is added every Thursday morning. Dated files don't change once they're written.
 
 This repo syncs right after the site's daily build and live check, at around 6 AM ET. It only gets a new commit when a file changed.
 
