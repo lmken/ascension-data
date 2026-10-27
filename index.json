@@ -21,50 +21,56 @@
  },
  "daily": [
   {
+   "date": "2026-10-27",
+   "rows": 1115,
+   "csv": "https://ascension.fyi/data/daily/2026-10-27.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-27.json"
+  },
+  {
    "date": "2026-10-26",
-   "rows": 69,
+   "rows": 343,
    "csv": "https://ascension.fyi/data/daily/2026-10-26.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-26.json"
   },
   {
    "date": "2026-10-25",
-   "rows": 70,
+   "rows": 347,
    "csv": "https://ascension.fyi/data/daily/2026-10-25.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-25.json"
   },
   {
    "date": "2026-10-24",
-   "rows": 69,
+   "rows": 343,
    "csv": "https://ascension.fyi/data/daily/2026-10-24.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-24.json"
   },
   {
    "date": "2026-10-23",
-   "rows": 73,
+   "rows": 339,
    "csv": "https://ascension.fyi/data/daily/2026-10-23.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-23.json"
   },
   {
    "date": "2026-10-22",
-   "rows": 72,
+   "rows": 338,
    "csv": "https://ascension.fyi/data/daily/2026-10-22.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-22.json"
   },
   {
    "date": "2026-10-21",
-   "rows": 70,
+   "rows": 339,
    "csv": "https://ascension.fyi/data/daily/2026-10-21.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-21.json"
   },
   {
    "date": "2026-10-20",
-   "rows": 66,
+   "rows": 344,
    "csv": "https://ascension.fyi/data/daily/2026-10-20.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-20.json"
   },
   {
    "date": "2026-10-19",
-   "rows": 69,
+   "rows": 340,
    "csv": "https://ascension.fyi/data/daily/2026-10-19.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-19.json"
   }
