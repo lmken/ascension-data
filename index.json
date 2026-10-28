@@ -13,6 +13,9 @@
   "change",
   "date"
  ],
+ "last_updated": "2026-10-28",
+ "about": "Ascension (ascension.fyi) ranks consumer AI apps on one blended App Store and Google Play leaderboard, built from public store charts in 9 countries and updated daily at around 6 AM ET. Paid placements are always labeled and never change ranks. The data is free to reuse with credit under CC BY 4.0.",
+ "citation": "Data powered by Ascension (ascension.fyi), ranks as of Oct 28, 2026.",
  "scheme": {
   "daily": "https://ascension.fyi/data/daily/YYYY-MM-DD.{csv,json}",
   "daily_latest": "https://ascension.fyi/data/daily/latest.{csv,json}",
@@ -21,56 +24,62 @@
  },
  "daily": [
   {
+   "date": "2026-10-28",
+   "rows": 984,
+   "csv": "https://ascension.fyi/data/daily/2026-10-28.csv",
+   "json": "https://ascension.fyi/data/daily/2026-10-28.json"
+  },
+  {
    "date": "2026-10-27",
-   "rows": 1115,
+   "rows": 1005,
    "csv": "https://ascension.fyi/data/daily/2026-10-27.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-27.json"
   },
   {
    "date": "2026-10-26",
-   "rows": 343,
+   "rows": 220,
    "csv": "https://ascension.fyi/data/daily/2026-10-26.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-26.json"
   },
   {
    "date": "2026-10-25",
-   "rows": 347,
+   "rows": 224,
    "csv": "https://ascension.fyi/data/daily/2026-10-25.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-25.json"
   },
   {
    "date": "2026-10-24",
-   "rows": 343,
+   "rows": 217,
    "csv": "https://ascension.fyi/data/daily/2026-10-24.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-24.json"
   },
   {
    "date": "2026-10-23",
-   "rows": 339,
+   "rows": 218,
    "csv": "https://ascension.fyi/data/daily/2026-10-23.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-23.json"
   },
   {
    "date": "2026-10-22",
-   "rows": 338,
+   "rows": 215,
    "csv": "https://ascension.fyi/data/daily/2026-10-22.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-22.json"
   },
   {
    "date": "2026-10-21",
-   "rows": 339,
+   "rows": 218,
    "csv": "https://ascension.fyi/data/daily/2026-10-21.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-21.json"
   },
   {
    "date": "2026-10-20",
-   "rows": 344,
+   "rows": 210,
    "csv": "https://ascension.fyi/data/daily/2026-10-20.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-20.json"
   },
   {
    "date": "2026-10-19",
-   "rows": 340,
+   "rows": 212,
    "csv": "https://ascension.fyi/data/daily/2026-10-19.csv",
    "json": "https://ascension.fyi/data/daily/2026-10-19.json"
   }

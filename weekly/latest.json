@@ -16,6 +16,9 @@
    "change",
    "date"
   ],
+  "last_updated": "2026-10-23",
+  "about": "Ascension (ascension.fyi) ranks consumer AI apps on one blended App Store and Google Play leaderboard, built from public store charts in 9 countries and updated daily at around 6 AM ET. Paid placements are always labeled and never change ranks. The data is free to reuse with credit under CC BY 4.0.",
+  "citation": "Data powered by Ascension (ascension.fyi), ranks as of Oct 23, 2026.",
   "notes": "rank: position on the blended App Store + Google Play board of consumer AI apps. platform: ios, android, or ios+android. change: places moved since the previous week (positive = up), \"new\" if not on the previous board, null if there is no comparable previous week. date: the Monday of the week (YYYY-MM-DD)."
  },
  "rows": [
