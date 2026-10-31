@@ -535,91 +535,91 @@
   },
   {
    "rank": 74,
-   "app": "Gauth: AI Study Companion",
+   "app": "Chat AI: Ask Agent Anything",
    "platform": "ios+android",
    "change": 5,
    "date": "2026-10-24"
   },
   {
    "rank": 75,
-   "app": "Speak English with Loora AI",
+   "app": "Gauth: AI Study Companion",
    "platform": "ios+android",
-   "change": -43,
+   "change": 5,
    "date": "2026-10-24"
   },
   {
    "rank": 76,
+   "app": "Speak English with Loora AI",
+   "platform": "ios+android",
+   "change": -44,
+   "date": "2026-10-24"
+  },
+  {
+   "rank": 77,
    "app": "Praktika – AI Language Tutor",
    "platform": "ios+android",
    "change": 4,
    "date": "2026-10-24"
   },
   {
-   "rank": 77,
+   "rank": 78,
    "app": "Citrus 1 Tap Photo Enhancer AI",
    "platform": "ios+android",
    "change": 5,
    "date": "2026-10-24"
   },
   {
-   "rank": 78,
+   "rank": 79,
    "app": "Genspark AI Workspace",
    "platform": "ios+android",
    "change": 3,
    "date": "2026-10-24"
   },
   {
-   "rank": 79,
+   "rank": 80,
    "app": "Photoroom: AI Photo Editor",
    "platform": "ios+android",
    "change": 4,
    "date": "2026-10-24"
   },
   {
-   "rank": 80,
+   "rank": 81,
    "app": "Translator GO: AI Translate",
    "platform": "ios+android",
    "change": 4,
    "date": "2026-10-24"
   },
   {
-   "rank": 81,
+   "rank": 82,
    "app": "Summary - AI Note Taker",
    "platform": "ios+android",
    "change": 5,
    "date": "2026-10-24"
   },
   {
-   "rank": 82,
+   "rank": 83,
    "app": "Hypic - Photo Editor & AI Art",
    "platform": "ios+android",
    "change": 5,
    "date": "2026-10-24"
   },
   {
-   "rank": 83,
+   "rank": 84,
    "app": "Astra AI: Study & Exam Prep",
    "platform": "ios+android",
    "change": 2,
    "date": "2026-10-24"
   },
   {
-   "rank": 84,
+   "rank": 85,
    "app": "Chatbot AI Assistant - Genie",
    "platform": "ios+android",
    "change": 4,
    "date": "2026-10-24"
   },
   {
-   "rank": 85,
-   "app": "ChatBox - AI Chat with Chatbot",
-   "platform": "ios+android",
-   "change": 4,
-   "date": "2026-10-24"
-  },
-  {
    "rank": 86,
-   "app": "Chat AI: Ask Agent Anything",
+   "app": "ChatBox - AI Chat with Chatbot",
    "platform": "ios+android",
    "change": 4,
    "date": "2026-10-24"
