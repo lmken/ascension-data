@@ -1,0 +1,945 @@
+rank,app,platform,change,date
+1,ChatGPT,ios+android,0,2026-11-01
+2,Google Gemini,ios+android,0,2026-11-01
+3,Grok,ios+android,0,2026-11-01
+4,Microsoft Copilot,ios+android,0,2026-11-01
+5,Dola: Smart AI Assistant,ios+android,0,2026-11-01
+6,Meta AI,ios+android,0,2026-11-01
+7,Suno - AI Music & Songs Maker,ios+android,0,2026-11-01
+8,Claude by Anthropic,ios+android,0,2026-11-01
+9,Perplexity - Ask Anything,ios+android,0,2026-11-01
+10,Remini - AI Photo Enhancer,ios+android,0,2026-11-01
+11,Seekee - AI Search & Assistant,android,0,2026-11-01
+12,PolyBuzz: Chat with AI Friends,android,0,2026-11-01
+13,VibeShort: AI Dramas & Reels,ios+android,0,2026-11-01
+14,Emochi: Chat With Character,android,0,2026-11-01
+15,Kling AI: AI Image&Video Maker,ios+android,0,2026-11-01
+16,Muse from Meta,ios+android,1,2026-11-01
+17,AI Music Video Maker - Mivi,android,38,2026-11-01
+18,AI Chatbot - Nova,ios+android,-2,2026-11-01
+19,Chai: Chat AI Platform,android,0,2026-11-01
+20,Facetune: Photo & Video Editor,ios,-2,2026-11-01
+21,"zeta: AI Chat, Story, Play",ios+android,-1,2026-11-01
+22,"Manus AI: Video, Slides & Apps",ios+android,-1,2026-11-01
+23,Gemini Notebook,android,0,2026-11-01
+24,Supernova AI: Spoken English,ios+android,-2,2026-11-01
+25,Luzia: AI Assistant & Chat,ios+android,-1,2026-11-01
+26,Moises: The Musician's AI App,android,-1,2026-11-01
+27,ChatOn AI - Chat Bot Assistant,ios+android,-1,2026-11-01
+28,AI Chat - Ask your AI Chatbot,android,-1,2026-11-01
+29,Mivora AI-Video & Image Maker,android,0,2026-11-01
+30,Deepsearch AI Search Assistant,android,-2,2026-11-01
+31,Hailuo AI: Image&Video Maker,android,-1,2026-11-01
+32,BabyGenie - AI Baby Generator,android,-1,2026-11-01
+33,Captions: AI Edits Your Video,ios,-1,2026-11-01
+34,Speak: Language Learning,android,-1,2026-11-01
+35,Chatbot App - AI Assistant,ios+android,0,2026-11-01
+36,MePic－AI Photo Video Generator,android,0,2026-11-01
+37,Google Flow,ios+android,-3,2026-11-01
+38,Beatron - AI Music Maker,ios+android,22,2026-11-01
+39,Joko I Shopping IA & cashback,ios,new,2026-11-01
+40,Tipsy: Live Your Story,android,-3,2026-11-01
+41,Grok Bot,ios+android,-3,2026-11-01
+42,MiraiMind - Create Your Own AI,android,-3,2026-11-01
+43,Runway: AI Image & Video,ios+android,-3,2026-11-01
+44,Plaud: AI Work Companion,ios+android,-3,2026-11-01
+45,Citrus 1 Tap Photo Enhancer AI,ios+android,190,2026-11-01
+46,Enjoy - AI Town,android,15,2026-11-01
+47,Nexus - AI Video Generator,android,-5,2026-11-01
+48,AI Photo Beauty Editor Studio,android,-5,2026-11-01
+49,AI Catch: AI Video Generator,ios,-5,2026-11-01
+50,Afizzy - AI Character Chat,android,-5,2026-11-01
+51,WHIF: Romance & BL AI Chat,android,2,2026-11-01
+52,Vidix-AI Photo Video Generator,android,-6,2026-11-01
+53,Cantina: AI Video & Characters,ios,147,2026-11-01
+54,キャラぷ - 物語はキミ次第・AIチャット,ios+android,-6,2026-11-01
+55,Crushie Al: Romance AI Chat,android,-6,2026-11-01
+56,Whispy AI: Create Your Story,ios+android,-5,2026-11-01
+57,Dulci: AI Interactive Story,android,-5,2026-11-01
+58,XTranslator Live: AI Translate,android,165,2026-11-01
+59,Lynix: AI Photo & Video Maker,android,-5,2026-11-01
+60,Framly - AI Photo Video Maker,android,-4,2026-11-01
+61,Speak English with Loora AI,ios+android,-4,2026-11-01
+62,Phant AI: AI Video&image Maker,android,43,2026-11-01
+63,Refoto: AI Image & Video Maker,android,-5,2026-11-01
+64,Equal AI - Call Assistant,ios+android,-5,2026-11-01
+65,My Muse: Stream AI Short Drama,android,new,2026-11-01
+66,Brainly: AI Homework Helper,android,-4,2026-11-01
+67,Photoroom: AI Photo & Video,ios+android,-4,2026-11-01
+68,Gauth: AI Study Companion,ios+android,-4,2026-11-01
+69,PixVerse: AI Video Generator,android,-4,2026-11-01
+70,Beat.ly: AI music video maker,android,-4,2026-11-01
+71,Reface: Face Swap AI Generator,android,-4,2026-11-01
+72,UpFoto - AI Photo Enhancer,android,-4,2026-11-01
+73,Filmigo: AI Video Maker,android,-4,2026-11-01
+74,"Character AI: Chat, Talk, Text",ios+android,-4,2026-11-01
+75,Chat AI: Ask Agent Anything,ios+android,-4,2026-11-01
+76,Talkie: Creative AI Community,ios+android,-4,2026-11-01
+77,Narrator's Voice - TTS,android,-4,2026-11-01
+78,Chatbot AI - Search Assistant,android,-4,2026-11-01
+79,Praktika – AI Language Tutor,ios+android,-4,2026-11-01
+80,Grammarly: AI Keyboard & Voice,ios+android,-4,2026-11-01
+81,Chat Smith: AI Chatbot & Agent,ios+android,-4,2026-11-01
+82,Home AI - AI Interior Design,ios+android,-4,2026-11-01
+83,DeepSeek - AI Assistant,ios+android,-4,2026-11-01
+84,AI Video Editor - Vidma Cut AI,android,-4,2026-11-01
+85,Lensa AI: Photo Editor,ios+android,-4,2026-11-01
+86,Replika: My AI Friend,ios+android,-2,2026-11-01
+87,Open Chat - AI bot app,android,-4,2026-11-01
+88,Hypic - Photo Editor & AI Art,ios+android,-6,2026-11-01
+89,WOMBO Dream - AI Art Generator,android,-4,2026-11-01
+90,AI Video - AI Video Generator,ios+android,-4,2026-11-01
+91,Chatbot AI Assistant - Genie,ios+android,-4,2026-11-01
+92,AI Image Generator: ImagineArt,android,-4,2026-11-01
+93,Question.AI - Chatbot&Math AI,ios+android,-4,2026-11-01
+94,Pixelcut: AI Photo & Video,ios+android,-4,2026-11-01
+95,Donna AI Song & Music Maker,ios+android,-4,2026-11-01
+96,PhotoBoost - AI Photo Enhancer,android,-4,2026-11-01
+97,Faceplay: AI Video Photo Maker,android,-4,2026-11-01
+98,Nerd AI - Tutor & Math Helper,android,-3,2026-11-01
+99,vivago.ai - AI Image & Video,android,-3,2026-11-01
+100,PhotoApp - AI Photo Enhancer,android,-6,2026-11-01
+101,AI Video Generator : SelfyzAI+,android,-4,2026-11-01
+102,AI Mirror: AI Photo & Video,android,-4,2026-11-01
+103,AI Home Design: Interior DecAI,android,-4,2026-11-01
+104,Poe - Fast AI Chat,android,-4,2026-11-01
+105,Jimmy AI: Chat & Assistant,android,-4,2026-11-01
+106,"AI Photo Video Maker, Enhancer",android,-4,2026-11-01
+107,Videoleap: AI Video Editor,android,-3,2026-11-01
+108,ElevenLabs: AI Voice Generator,ios+android,-2,2026-11-01
+109,ChatGO - AI Chat Assistant,ios+android,-2,2026-11-01
+110,SelfyzAI: AI Video Generator,android,-2,2026-11-01
+111,AI Chat・Ask Chatbot Assistant,android,-2,2026-11-01
+112,AI Baby Generator: Face Maker,android,-2,2026-11-01
+113,Revive: AI Photo Animator,ios+android,-2,2026-11-01
+114,Voices AI: Voice Changer,ios+android,0,2026-11-01
+115,"XTranslate - Photo, Voice, PDF",android,-3,2026-11-01
+116,Momo: AI Photo & Video Maker,android,-1,2026-11-01
+117,Face Dance: AI Photo Animator,android,-4,2026-11-01
+118,Tattoo AI - Tattoo Design,ios+android,-1,2026-11-01
+119,DaVinci - AI Image Generator,android,-16,2026-11-01
+120,AI Photo Editor - AI Morph,android,-2,2026-11-01
+121,starryai - AI Art Generator,android,-5,2026-11-01
+122,ChatBox - AI Chat with Chatbot,ios+android,-3,2026-11-01
+123,"Linky AI: Chat, Play, Connect",android,-3,2026-11-01
+124,Tarteel: AI Quran Memorization,ios+android,-3,2026-11-01
+125,AI Video Generator Viddo Maker,android,-3,2026-11-01
+126,Astra AI: Study & Exam Prep,ios+android,-2,2026-11-01
+127,Cal AI - Calorie Tracker,ios+android,-4,2026-11-01
+128,Music AI: MV Video Generator,android,-2,2026-11-01
+129,AI Image Generator & AI Video,android,-4,2026-11-01
+130,GIO: AI Headshot Generator,ios+android,-2,2026-11-01
+131,ChatGO: AI Chatbot Assistant,android,-4,2026-11-01
+132,Wonder - AI Art Generator,android,-3,2026-11-01
+133,Friends – Raise AI Companions,android,-2,2026-11-01
+134,AI Remodel - Interior Design,android,-2,2026-11-01
+135,AI Catch: AI Video Generator,android,-1,2026-11-01
+136,AI Video Generator - Clips AI,android,0,2026-11-01
+137,Leonardo.Ai - Image Generator,ios+android,-4,2026-11-01
+138,Drma: AI Short Drama Maker,android,-3,2026-11-01
+139,AI Voice Chat Bot: Open Wisdom,android,-1,2026-11-01
+140,invideo: AI Video Editor,android,-1,2026-11-01
+141,Future Self™: AI Face Aging,android,-4,2026-11-01
+142,Dootchi: Chat with AI Chars,android,-2,2026-11-01
+143,PicMa: AI Video&Photo Enhancer,android,-2,2026-11-01
+144,Mureka: AI Radio & Music Maker,ios+android,-2,2026-11-01
+145,Chatbot - AI Smart Assistant,android,-2,2026-11-01
+146,Qwen - Alibaba AI Assistant,ios+android,-2,2026-11-01
+147,Arvin® - AI Logo Maker,ios+android,0,2026-11-01
+148,Chatbot AI - Chat & Ask AI,android,-3,2026-11-01
+149,AI Video Enhancer & Editor,android,-3,2026-11-01
+150,Pixelup - AI Photo Enhancer,android,-2,2026-11-01
+151,HiWaifu: AI Roleplay & Chat,android,-2,2026-11-01
+152,Color Pop: AI Colouring Book,ios,-2,2026-11-01
+153,AI Photo Generator - AURA AI,android,-1,2026-11-01
+154,AI Song Generator - Jukebox,ios+android,-1,2026-11-01
+155,Retake AI: Face & Photo Editor,android,-4,2026-11-01
+156,Hula - AI Video Generator,android,-2,2026-11-01
+157,BodBot AI Personal Trainer,android,-2,2026-11-01
+158,Creati：AI Image Video Maker,android,-2,2026-11-01
+159,Summary - AI Note Taker,ios+android,-1,2026-11-01
+160,Face Me: AI Art Photo Editor,android,-3,2026-11-01
+161,Genspark AI Workspace,ios+android,-1,2026-11-01
+162,AI Art Generator，Photo Enhance,android,-3,2026-11-01
+163,AI Video Generator: Livensa,android,-1,2026-11-01
+164,Saylo: Your AI Creative World,android,-3,2026-11-01
+165,EVA AI Soulmate,ios+android,-2,2026-11-01
+166,Vozo AI Video Translator & Dub,ios+android,-2,2026-11-01
+167,"AI Song Generator, Cover Music",android,0,2026-11-01
+168,Face Swap Video - Faceswapp AI,android,-2,2026-11-01
+169,Famefy: AI Live Stream & Fans,ios,-4,2026-11-01
+170,iris Dating: Find Love with AI,android,-1,2026-11-01
+171,Pocket - AI Personal Assistant,ios+android,-121,2026-11-01
+172,AI Photo Enhancer and Remover,android,-4,2026-11-01
+173,AI Song Maker: Soniva Music,ios+android,-2,2026-11-01
+174,AI Song Generator - Mozart,ios+android,-4,2026-11-01
+175,Transkriptor - Speech to Text,ios+android,-3,2026-11-01
+176,Winkit - AI Video Enhancer,android,-3,2026-11-01
+177,FANCLメンバーズ/お買い物・スキンメイト・AI肌測定,android,-3,2026-11-01
+178,AI Chat Assistant – ChatNow,ios,-3,2026-11-01
+179,"Future Baby Generator, AI Baby",android,-3,2026-11-01
+180,AI Image Generator - CreArt,android,-2,2026-11-01
+181,AI! Chatbot Agent－Ask & Chat,android,-2,2026-11-01
+182,Deep Think - AI Seek Chatbot,android,-2,2026-11-01
+183,Shots - AI Photo & Video Maker,android,-1,2026-11-01
+184,Remove Objects:AI Photo Editor,ios,-3,2026-11-01
+185,Cartoon Photo Editor ・Toon AI,android,0,2026-11-01
+186,VideoGPT - AI Video Generator,ios+android,-3,2026-11-01
+187,Hark Pro,ios+android,-3,2026-11-01
+188,AI Music & Song Generator,android,-2,2026-11-01
+189,Zapia: Personal AI Assistant,ios+android,-2,2026-11-01
+190,AI Logo Generator Logo Maker,android,0,2026-11-01
+191,AI GPT Generator-Text to Video,android,-2,2026-11-01
+192,HeyGen: AI Video Generator,ios+android,1,2026-11-01
+193,Object Removal AI Retouch,ios,-5,2026-11-01
+194,AI Video Generator: Collart AI,android,-3,2026-11-01
+195,Captions AI: Videos Subtitles,android,-1,2026-11-01
+196,Fantasia: Character AI Chat,android,-4,2026-11-01
+197,AI Photo Enhancer - Evoke,android,-2,2026-11-01
+198,Rosytalk: AI Character Chat,android,-2,2026-11-01
+199,Sea Soul: AI Chat,android,-2,2026-11-01
+200,Quillbot: AI Writing Assistant,ios+android,-2,2026-11-01
+201,AI Photo Generator: Muselab AI,android,-2,2026-11-01
+202,"AI Logo Maker, AI Design: Hexa",android,-1,2026-11-01
+203,Pollo AI: AI Video & Image,ios+android,2,2026-11-01
+204,AIReel : AI Video Generator,android,-2,2026-11-01
+205,Ocean AI: AI Chatbot & Ask AI,android,-1,2026-11-01
+206,AI Photo Generator: ARTA,ios,-3,2026-11-01
+207,Zeemo: AI Video&Auto Captions,android,-1,2026-11-01
+208,Translate AI - Live Translator,android,4,2026-11-01
+209,MusicLab：AI Song & Music Video,android,-2,2026-11-01
+210,Notta-Transcribe Audio to Text,ios+android,-2,2026-11-01
+211,AI Phone:Call&Voice Translator,ios,-2,2026-11-01
+212,Logo Maker - AI Art Design,android,-1,2026-11-01
+213,Zona: AI Song Maker & Creator,android,0,2026-11-01
+214,Vidu - AI Video Generator,android,-4,2026-11-01
+215,Customuse: AI 3D Creator,ios,-1,2026-11-01
+216,PixAI: AI Anime Art Generator,android,-1,2026-11-01
+217,Rythmix: AI Music & Song Maker,android,-1,2026-11-01
+218,Arch - AI Home Design,ios+android,-1,2026-11-01
+219,AI Translate - All language,android,-1,2026-11-01
+220,WingAI: Your AI Wingman,android,0,2026-11-01
+221,AI Video Generator: 3D FlixAI,android,3,2026-11-01
+222,"Cycle AI: Chat, Talk & Stories",android,-3,2026-11-01
+223,AI Marvels - AI Photo & Video,android,-1,2026-11-01
+224,ARTA: AI Art & Photo Generator,android,-3,2026-11-01
+225,SnapHome: AI Interior Design,android,0,2026-11-01
+226,Friday: AI E-mail Assistant,android,0,2026-11-01
+227,Remodel AI - Home Design,ios+android,0,2026-11-01
+228,Transcribe Audio To Text,android,1,2026-11-01
+229,RepairBuddy: AI Repair & DIY,android,2,2026-11-01
+230,Umagic: AI Video Generator,android,-2,2026-11-01
+231,OneSearch: DeepSearch Finder,android,-1,2026-11-01
+232,Flipped:Chat with AI Character,android,1,2026-11-01
+233,Quizard AI: Homework Helper,ios,-1,2026-11-01
+234,Ask Me Anything - AI Chatbot,android,0,2026-11-01
+235,YearCam: AI Video Generator,android,2,2026-11-01
+236,AI Photo Enhancer - PixLift,android,2,2026-11-01
+237,Swerve: AI Chat & Stories,ios,-1,2026-11-01
+238,MyTunes : AI Music Generator,ios,1,2026-11-01
+239,AI Home Design: Interior DecAI,ios,1,2026-11-01
+240,Spellai - AI Art Maker,ios+android,2,2026-11-01
+241,Dance AI: AI Dance Video Maker,ios+android,0,2026-11-01
+242,Stability Generative AI Art,android,2,2026-11-01
+243,Kindroid: Your Personal AI,ios+android,0,2026-11-01
+244,AIアシスタントくん - 宿題・悩み相談もOKな日本語AI,ios,1,2026-11-01
+245,SeaArt AI: Photo & Video Maker,android,3,2026-11-01
+246,Precious - AI Photo Studio,android,3,2026-11-01
+247,"AI Photo Video Editor, Enhance",ios,-1,2026-11-01
+248,Solvely - AI Study Tools,ios,-1,2026-11-01
+249,DancePop - AI Dance Video,android,2,2026-11-01
+250,HairGenie - AI Hair Generator,android,0,2026-11-01
+251,Mitu AI: Prank Video Generator,android,1,2026-11-01
+252,AI Video Generator - Vimo AI,ios+android,2,2026-11-01
+253,FaceMagic: AI Videos & Photos,android,2,2026-11-01
+254,Botify AI: Chatbot & Companion,android,3,2026-11-01
+255,Lumy－AI Photo Video Generator,android,3,2026-11-01
+256,Quiz AI: AI Homework Helper,ios+android,3,2026-11-01
+257,画像生成AI AIイラスト AIアート - TryArt,ios,-1,2026-11-01
+258,11XScore AI Football,android,2,2026-11-01
+259,AI Music Video Generator: Yuna,android,4,2026-11-01
+260,PicTok : AI Photo Generator,android,2,2026-11-01
+261,Sondo - AI Music Video & AI MV,ios+android,0,2026-11-01
+262,Live Translator: AI translate,android,4,2026-11-01
+263,Gamma: AI Slides & PPT Maker,ios+android,1,2026-11-01
+264,AI Video Generator - AI Photo,android,5,2026-11-01
+265,Guru AI | Solve any Exercise,android,0,2026-11-01
+266,Aippy: AI Game Maker,android,4,2026-11-01
+267,Chatdi: AI Chat & Assistant,android,1,2026-11-01
+268,‎AI Remodel — Interior Design,ios,-1,2026-11-01
+269,Captiono: AI Subtitles,android,3,2026-11-01
+270,ALLCRIC-AI Cricket Predictions,ios+android,3,2026-11-01
+271,Live Translator - AI Translate,ios,0,2026-11-01
+272,Flashloop: AI Video Generator,ios+android,3,2026-11-01
+273,ETM: AI Image Generator,android,4,2026-11-01
+274,Magnific - AI Video & Image,android,6,2026-11-01
+275,SynClub: AIキャラ・夢小説・ノベル・チャット・物語,ios,-1,2026-11-01
+276,AI Seduce,android,0,2026-11-01
+277,Creati: Gen AI Content Creator,ios,1,2026-11-01
+278,AI Video Generator: 3D AI Mix,android,5,2026-11-01
+279,Replit: Vibe Code with AI Fast,ios,0,2026-11-01
+280,"Pose: AI Video Maker, AI Photo",android,2,2026-11-01
+281,Alta Daily: Digital AI Closet,ios,0,2026-11-01
+282,Renew - Old Photo Restoration,android,3,2026-11-01
+283,AI Photo Enhancer: Gen Art,android,1,2026-11-01
+284,AI Background Remover - Eraser,ios,2,2026-11-01
+285,Animator - AI photo dance,android,3,2026-11-01
+286,AI Emoji: Swipemoji,ios,1,2026-11-01
+287,Gênio IA: Gravador de aulas,ios,2,2026-11-01
+288,Muvio - AI Music Video Maker,android,5,2026-11-01
+289,VocalMe: AI Music Generator,ios,2,2026-11-01
+290,AI Maker: Photo Video Creator,ios,2,2026-11-01
+291,AI Video&AI Kiss&AI Hug-VidyAI,android,5,2026-11-01
+292,EMOCHI World: AI Story Chat,ios,3,2026-11-01
+293,AI Song Music Generator: Muzio,ios,1,2026-11-01
+294,KP AI Music & Song Maker,android,4,2026-11-01
+295,Soccer Tips AI - Scouter,android,6,2026-11-01
+296,SpeakApp AI: Voice Notes,ios,1,2026-11-01
+297,AI Chatbot: Pixi,ios,2,2026-11-01
+298,AI Story Generator Novel Maker,android,6,2026-11-01
+299,Fish AI - AI Fishing App,ios+android,4,2026-11-01
+300,AI Generator - Photo Revive,ios,2,2026-11-01
+301,GenV - AI Video Generator,android,5,2026-11-01
+302,AI Video Maker & Photo Editor,android,6,2026-11-01
+303,Piclux: AI Photo Studio,android,2,2026-11-01
+304,Toki: AI Executive Assistant,android,3,2026-11-01
+305,ReShoot: AI Face Photo Editor,ios,4,2026-11-01
+306,Aspect: AI-Only Social Media,ios+android,5,2026-11-01
+307,Granola - AI Meeting Notes,ios,3,2026-11-01
+308,MelodyCraft - AI Music Maker,android,5,2026-11-01
+309,MusicGPT - AI Song Generator,ios+android,5,2026-11-01
+310,AI Photo - Image Generator,android,6,2026-11-01
+311,Dreamina AI: Image&Video Maker,ios+android,4,2026-11-01
+312,Shoom・AI Music Video Generator,android,8,2026-11-01
+313,Minutes: AI Meeting Note Taker,ios,-1,2026-11-01
+314,Intimate - AI Girlfriend,android,-24,2026-11-01
+315,SingUp: AI Music Generator,ios,2,2026-11-01
+316,AI Song Generator - Zona,ios,2,2026-11-01
+317,Emberly: AI Photo Generator,android,6,2026-11-01
+318,Genora AI – Chat Bot Assistant,ios,1,2026-11-01
+319,AI Photo Restore With Music,android,5,2026-11-01
+320,AI Music: Song & Voice Maker,ios,1,2026-11-01
+321,DanceHit: AI Dance Generator,ios+android,5,2026-11-01
+322,Archo – AI Interior Design,android,5,2026-11-01
+323,ModsTune – AI Car Designer,android,5,2026-11-01
+324,Hype AI - AI Photo & Video,android,6,2026-11-01
+325,Rythmix - AI Music Generator,ios,4,2026-11-01
+326,Genius Art: Image AI Generator,android,5,2026-11-01
+327,Her.AI - Funny Chat Friend,android,6,2026-11-01
+328,Chatbot AI Français: Chat IA,ios,4,2026-11-01
+329,Days AI - AI Art & OC Creator,ios+android,5,2026-11-01
+330,ラビダビ - AIキャラとロールプレイチャット,ios,5,2026-11-01
+331,SchoolMouv - AI Tutor & Quiz,android,6,2026-11-01
+332,AI Music Video Generator・Shoom,ios,4,2026-11-01
+333,"ChatLLM: AI Chat, Bot & Agent",ios+android,8,2026-11-01
+334,Trade AI: Chart AI Analysis,ios,4,2026-11-01
+335,Adapta One,ios,5,2026-11-01
+336,Photora - AI Family Maker,android,8,2026-11-01
+337,Flexi AI Tutor & Homework Help,android,2,2026-11-01
+338,Sticky - AI Game Maker,ios,4,2026-11-01
+339,EcoGPT,ios,-86,2026-11-01
+340,AI Music Video Generator:Enkio,android,6,2026-11-01
+341,AI Chatbot & Design Assistant,ios,2,2026-11-01
+342,Uplingo: AI Language Tutor,android,5,2026-11-01
+343,チャチャ - AIキャラ・推しと話せるロールプレイチャット,ios,2,2026-11-01
+344,Tripo - AI 3D Model Generator,android,5,2026-11-01
+345,Trend AI - Happy Chat Anytime,android,6,2026-11-01
+346,Renovate AI - Home Remodel App,ios,2,2026-11-01
+347,AI Music: Cover & Song Maker,android,5,2026-11-01
+348,KI Stimmenverzerrer & Effekte,ios,2,2026-11-01
+349,Stemz: AI Tool for Musicians,android,4,2026-11-01
+350,Scalio - Run Marketing 24/7,ios+android,-303,2026-11-01
+351,RoomGPT AI - Interior Design,android,3,2026-11-01
+352,Remake: KI Bilder Erstellen,ios,3,2026-11-01
+353,Gravl: AI Personal Trainer,ios,3,2026-11-01
+354,VidFox: AI Photo Video Maker,android,4,2026-11-01
+355,AI Song: AI Music Generator,ios,2,2026-11-01
+356,Mervious: AI Photo & Video Art,android,4,2026-11-01
+357,Poppy:AI Roleplay Chat,android,4,2026-11-01
+358,Chatbot AI Assistant ChatPrime,ios,1,2026-11-01
+359,Cute AI - Immersive Chat,android,3,2026-11-01
+360,Artvilize: AI Video Generator,android,3,2026-11-01
+361,Future Baby Generator - GenArt,android,4,2026-11-01
+362,Dream Girl : Chat AI,android,5,2026-11-01
+363,Heidi — AI Care Partner,ios,1,2026-11-01
+364,Vera Health: AI for Clinicians,ios+android,4,2026-11-01
+365,AI Garden Design: Landscape AI,ios,4,2026-11-01
+366,Beautix - AI Hair Changer,android,new,2026-11-01
+367,ReelMe: AI Photo & Video,ios,4,2026-11-01
+368,Amora - AI Character Roleplay,android,8,2026-11-01
+369,AI Home Decor-Interior Design,ios,1,2026-11-01
+370,Fish Audio,ios+android,144,2026-11-01
+371,SnapX - AI Post & Video Status,android,3,2026-11-01
+372,Moescape - Character AI & Art,android,3,2026-11-01
+373,Landscape Design - AI Garden,android,4,2026-11-01
+374,Fulltrack AI,android,-2,2026-11-01
+375,"AIイラスト,画像生成,消しゴムマジック - Pictor",ios,-2,2026-11-01
+376,AI Decor - AI Home Design,ios,2,2026-11-01
+377,DALL E 3 AI Art Generator,ios,2,2026-11-01
+378,AI Video Generator-HiCut,android,2,2026-11-01
+379,LoveMode: Pretty AI Girlfriend,android,2,2026-11-01
+380,AI Wicked,android,5,2026-11-01
+381,Kimi - Your Personal AI Agent,ios,3,2026-11-01
+382,Usgen: AI Group Moments Maker,android,8,2026-11-01
+383,Decor AI: Room & Home Design,ios,3,2026-11-01
+384,Keily-AI Soulmate Chat,android,3,2026-11-01
+385,Aviart: AI Photo Generator,ios,new,2026-11-01
+386,Man Ai Hairstyle Photo Editor,android,5,2026-11-01
+387,"FotoPro: AI Art, Image & Video",android,5,2026-11-01
+388,Rebrand - AI Logo Maker,ios+android,-63,2026-11-01
+389,"House AI: AI Room Design, Home",ios,-1,2026-11-01
+390,Genmoji: AI Emoji Maker - Mix,ios,-1,2026-11-01
+391,GolfFix AI Golf Swing Analyzer,ios+android,4,2026-11-01
+392,GoPhoto:AI Photo & Video Maker,ios,2,2026-11-01
+393,AI Video Generator - Vidmor,ios,0,2026-11-01
+394,Prompt Gallery - AI Prompts,android,4,2026-11-01
+395,Suka:AI Character&AI Story,android,5,2026-11-01
+396,Rosie-Fancy AI Chatbot,android,0,2026-11-01
+397,Dressly: AI Outfit Maker,android,5,2026-11-01
+398,Vividix - AI Memory Maker,android,7,2026-11-01
+399,Translator GO: AI Translate,ios+android,-2,2026-11-01
+400,AI Music - Generator,ios,-1,2026-11-01
+401,Captions AI - Auto Captions,android,5,2026-11-01
+402,Playground: AI Design & Editor,ios,-1,2026-11-01
+403,Outfityz: AI Outfit Swap,android,0,2026-11-01
+404,Model Face AI,android,0,2026-11-01
+405,Chat Me : Talk to Her AI,android,3,2026-11-01
+406,ImagineArt: AI Video Generator,ios,new,2026-11-01
+407,AI英会話 無限にトークできる-エンドレス,ios,0,2026-11-01
+408,VibeMe AI: Playable Studio,android,2,2026-11-01
+409,AI Song & Lyric Generator,android,2,2026-11-01
+410,TiKie: AI Fantasy & Roleplay,android,-1,2026-11-01
+411,Venice AI,ios+android,4,2026-11-01
+412,Rizz - AI Dating Assistant,android,4,2026-11-01
+413,AI ChatBot Assistant - Cuda AI,android,0,2026-11-01
+414,Cotomo（コトモ：AIチャット・おしゃべりAI）,ios,-2,2026-11-01
+415,Dradra – AI Art Photo & Video,android,9,2026-11-01
+416,AI Tattoo Design,android,5,2026-11-01
+417,Hexa AI：ロゴ・画像・イラスト・招待状をAIで作成,ios,-3,2026-11-01
+418,Rendio - AI Romance Studio,android,11,2026-11-01
+419,Posely: AI Car Photo & Video,android,6,2026-11-01
+420,Cue: AI Note Taker & Recorder,ios,-3,2026-11-01
+421,Pika - AI Video,ios,-3,2026-11-01
+422,Genix Art: AI Art Generator,android,0,2026-11-01
+423,Mody : AI Car Modifications,ios,-4,2026-11-01
+424,Socratic AI - Homework Helper,ios,-4,2026-11-01
+425,Bloomi: AI Friend with a Life,ios+android,2,2026-11-01
+426,Nomi: AI Companion with a Soul,ios+android,63,2026-11-01
+427,AI Video : Generator & Maker,android,4,2026-11-01
+428,Beatz - IA Musique Générateur,ios,-5,2026-11-01
+429,WhatsPGT AI Turbo Chat,android,1,2026-11-01
+430,PocketPal AI,android,4,2026-11-01
+431,Notee: AI Note Taker,ios,-5,2026-11-01
+432,Honey & Roleplay AI Chatbot,android,3,2026-11-01
+433,SynClub:AI Chat & Make Friends,android,3,2026-11-01
+434,"NestAI: AI Home, Room Planner",android,4,2026-11-01
+435,Udio: AI Music Maker & Studio,ios,-7,2026-11-01
+436,AIイラスト - UniDream 無制限でAI絵描きアプリ,ios,-4,2026-11-01
+437,Lens AI: Identify Anything,ios,-4,2026-11-01
+438,Ai-Fitness,ios,new,2026-11-01
+439,Liggo: Respuestas con IA,android,1,2026-11-01
+440,JhalakAI: AI Photo Generator,android,new,2026-11-01
+441,ユビー 医療AIパートナー,ios,new,2026-11-01
+442,Genera: AI Video Generator,android,-1,2026-11-01
+443,Home Style AI: Interior Design,ios,-6,2026-11-01
+444,MadeYu 寐慾 - AI画像 & 動画生成,ios,-5,2026-11-01
+445,ISEKAI ZERO: Anime AI Roleplay,android,0,2026-11-01
+446,Talk AI : Traducteur Vocal,ios,-4,2026-11-01
+447,Movia AI: Photo to Video Maker,ios,-4,2026-11-01
+448,AI Photos & Video Maker App,android,-1,2026-11-01
+449,MV AI Song Music Video Maker,android,-1,2026-11-01
+450,niji・journey - AI Anime Art,android,-4,2026-11-01
+451,Logo Maker - AI Art Design,ios,-7,2026-11-01
+452,Stocks to Buy Now AI Signals,ios,-3,2026-11-01
+453,Dolly - Your AI Doll Girl Chat,android,-2,2026-11-01
+454,Lovable: Build Apps With AI,ios,-4,2026-11-01
+455,Mira - AI Chat & Companion,ios+android,2,2026-11-01
+456,AI Photo Lab: Generate & Edit,android,0,2026-11-01
+457,Melia-Soulmate AI Friend,android,-5,2026-11-01
+458,Try Hairstyles-AI Change Color,android,-3,2026-11-01
+459,AI Home Design - Ruma,ios,-6,2026-11-01
+460,Sutunes: AI Music & Song Maker,android,8,2026-11-01
+461,Artspire: AI Video Generator,android,-3,2026-11-01
+462,MagicLight:AI Long Video Maker,android,-2,2026-11-01
+463,Kickresume: AI Resume Builder,ios,-9,2026-11-01
+464,Garden AI - Landscape Design,android,-3,2026-11-01
+465,Character AI Photo Generator,android,-2,2026-11-01
+466,AI Song & Music Maker-Musicful,android,-2,2026-11-01
+467,Veeo: Fast AI Video,android,-1,2026-11-01
+468,Anime AI - Photo Creator,android,-6,2026-11-01
+469,Ideogram AI - Image Generator,ios,-10,2026-11-01
+470,Lisa AI: AI Art Generator,ios,new,2026-11-01
+471,AllureGF: AI Romance Chat,android,0,2026-11-01
+472,AI Video Generator - Vixel,ios,-7,2026-11-01
+473,Manga AI - AI Comic Generator,android,0,2026-11-01
+474,Enkio: AI-Musikvideo-Generator,ios,-4,2026-11-01
+475,Tattoo AI Design Generator－Ink,ios,-3,2026-11-01
+476,Pastory: Restore Old Photos,android,-1,2026-11-01
+477,Miu Ai: Photo Video Generator,ios,-3,2026-11-01
+478,Tattooist: AI Tattoo Generator,android,1,2026-11-01
+479,AI Canvas - Gerador de arte,ios,-3,2026-11-01
+480,Photo Editor - AI Face Swap,android,2,2026-11-01
+481,One More Shot - AI Music Video,ios,-3,2026-11-01
+482,Magnific - AI Video & Image,ios,-1,2026-11-01
+483,AI Translator: Voice & Screen,android,4,2026-11-01
+484,IA Videos: AI Video Generator,ios,-1,2026-11-01
+485,ImaginAI - AI Art & Video,ios,0,2026-11-01
+486,Susan - AI Anime Chat,android,-2,2026-11-01
+487,MistyPix: AI Image Generator,android,6,2026-11-01
+488,PopMaker – Creator AI Tool,ios+android,3,2026-11-01
+489,"AI Art Generator: Photo, Anime",ios,new,2026-11-01
+490,Anijam: AI Video Maker,android,2,2026-11-01
+491,Fantasy AI: RP & Companions,android,-3,2026-11-01
+492,"Melozi: AI Song, Music Maker",android,5,2026-11-01
+493,KI Musikvideo Generator: Yuna,ios,-3,2026-11-01
+494,Miuci AI: AI Photo & Video Gen,android,4,2026-11-01
+495,Stipop: AI Chat·Virtual Dating,android,-1,2026-11-01
+496,Sweet AI - Chat Dreams,android,-1,2026-11-01
+497,ReStyle - Penteado IA Virtual,ios,-1,2026-11-01
+498,AI Video Generator,android,4,2026-11-01
+499,LINNÉ LENS - かざすAI図鑑,ios,0,2026-11-01
+500,AI音楽生成器 & AI作曲 - Sonus,ios,0,2026-11-01
+501,Casanova AI: Rizz Assistant,android,0,2026-11-01
+502,CozyAI - AI Home Design,ios,1,2026-11-01
+503,VoClone: AI Voice Changer,android,2,2026-11-01
+504,Melting – AI Romance Chat,android,0,2026-11-01
+505,Decor AI: AI Interior Design,ios+android,2,2026-11-01
+506,AniFlow - AI Anime Video Maker,ios+android,0,2026-11-01
+507,Magic AI Photo Video Generator,android,4,2026-11-01
+508,Ai Tattoo ldeas-Art Generator,android,0,2026-11-01
+509,Fliki: AI Video Generator,android,8,2026-11-01
+510,Remodel AI - Home Design,android,-1,2026-11-01
+511,AI Video Generator - LUHM,ios,-1,2026-11-01
+512,Ball AI - Basketball Training,ios+android,1,2026-11-01
+513,ToonApp AI+ Viral Photo Maker,android,-1,2026-11-01
+514,iLands: Raise Your Sole AI,android,1,2026-11-01
+515,AI Video Generator - Pixaflow,ios+android,5,2026-11-01
+516,Hangjam: AI Chat and Roleplay,android,0,2026-11-01
+517,Studyflash: KI-Lernapp,ios,1,2026-11-01
+518,Zurna: AI Song & Music Maker,ios+android,57,2026-11-01
+519,Honeydew: Recipe & Cookbook AI,ios,0,2026-11-01
+520,SingUp: AI Music Generator,android,3,2026-11-01
+521,Tuni: AI Music Video Maker,android,0,2026-11-01
+522,Song AI Maker: Generate Music,ios,2,2026-11-01
+523,AI Photo Studio: Art Magic,android,9,2026-11-01
+524,AI Home Design: Room Decor,android,3,2026-11-01
+525,Stem Split AI - Vocal Remover,ios,0,2026-11-01
+526,VocalMe Music: AI Cover Songs,android,2,2026-11-01
+527,AI Trend Photo Editor & Maker,ios,4,2026-11-01
+528,Fravix - AI Photo Generator,android,2,2026-11-01
+529,AI illustration plus,android,0,2026-11-01
+530,Woola - AI Photo Enhancer,android,5,2026-11-01
+531,Dalli-4: AI Image Generator,android,2,2026-11-01
+532,KissMe Ai Kiss Video Generator,android,2,2026-11-01
+533,MyEdit: AI Image Generator,android,3,2026-11-01
+534,AI Morii: AI Art Generator,android,7,2026-11-01
+535,Ruby-AI Mate Now,android,3,2026-11-01
+536,Renovate AI : House Design,android,1,2026-11-01
+537,Anime Filter - Photo to Anime,android,3,2026-11-01
+538,Cartoon AI Photo Art Creator,android,5,2026-11-01
+539,MagicLook AI,ios,0,2026-11-01
+540,MoboDrama - AI Comic Dramas,android,5,2026-11-01
+541,Note AI: Smart Note Taker,ios,1,2026-11-01
+542,AI Art Magic - Photo Creator,android,7,2026-11-01
+543,Smoothspeak: AI Dating Coach,android,1,2026-11-01
+544,Lumo by Proton,android,4,2026-11-01
+545,AI Video Generator & Maker,android,2,2026-11-01
+546,Nocty AI,android,0,2026-11-01
+547,Takallam AI: Learn Arabic,ios,3,2026-11-01
+548,Jolie-AI Chat Story,android,4,2026-11-01
+549,Driftshot - AI Car Photography,ios,2,2026-11-01
+550,RotoBot - AI Sports Insights,ios,3,2026-11-01
+551,My GPT - Social Intelligence,ios,3,2026-11-01
+552,TipsPro AI: Match Prediction,android,3,2026-11-01
+553,AI Photo - AI Video Generator,android,4,2026-11-01
+554,Trulinco: Live AI Translator,android,4,2026-11-01
+555,RoomGPT ™ : Inneneinrichtung,ios,1,2026-11-01
+556,DeepLove AI：Dream AI Love Chat,android,3,2026-11-01
+557,Vikk - AI Lawyer & Legal Help,android,6,2026-11-01
+558,「AutoMemoアプリ」自動で文字起こしができる,ios,2,2026-11-01
+559,Popia - AI Stories & Creators,ios,2,2026-11-01
+560,Chacha - AI Anime Chat,android,5,2026-11-01
+561,にじジャーニー - AI アニメアート,ios,1,2026-11-01
+562,Fofi - Fun AI Pet Effects,android,new,2026-11-01
+563,AIBoy - Virtual AI Boyfriend,android,1,2026-11-01
+564,Vidy-Real-Time AI Model,android,3,2026-11-01
+565,Hug My Younger Self AI,android,4,2026-11-01
+566,My Translator - AI Translate,ios,2,2026-11-01
+567,AI Video Generator - OpenVideo,ios+android,-1,2026-11-01
+568,CoeFont通訳 - 音声 翻訳 ・ AI 同時 通訳,ios,2,2026-11-01
+569,Afizzy - AI Character Stories,ios,4,2026-11-01
+570,Tattooist・AI Tattoo Generator,ios,1,2026-11-01
+571,DeepSearch AI People Finder,android,new,2026-11-01
+572,Hairify - AI Hairstyle Try On,ios,0,2026-11-01
+573,AI Home Design - Decor,android,1,2026-11-01
+574,Vincen - Your Super AI Agent,ios+android,3,2026-11-01
+575,"KAI: Créer BD, Manga, Manhwa",ios,1,2026-11-01
+576,NeuralSound: Vocal Remover AI,android,2,2026-11-01
+577,Interview Pilot: AI Copilot,ios,2,2026-11-01
+578,Mods: AI Car Designer & Tuning,ios,2,2026-11-01
+579,Wave AI Note Taker & Recorder,android,3,2026-11-01
+580,Interior AI - Home Design,ios,1,2026-11-01
+581,AI Photo Generator－Enhance Pic,android,4,2026-11-01
+582,Chatlulu: AI Video & Photo,android,1,2026-11-01
+583,Flixart - AI Photo Generator,android,3,2026-11-01
+584,AI Translator:Voice&Text&Photo,ios,0,2026-11-01
+585,Landscape Design - AI Garden,android,2,2026-11-01
+586,AI Photo Creator: Art Magic,android,5,2026-11-01
+587,Anijam：AI動画メーカー,ios,1,2026-11-01
+588,AI Clothes Changer - Adiz Ai,android,4,2026-11-01
+589,Cry Analyzer AI Baby Tracker,android,0,2026-11-01
+590,RoleCard.AI: AI Chat Companion,android,0,2026-11-01
+591,AI Siren,android,6,2026-11-01
+592,Designest: AI Home Design,android,4,2026-11-01
+593,Pavo - AI Image & Video Maker,android,1,2026-11-01
+594,Translate Now,ios,-1,2026-11-01
+595,Music AI - MV Video Generator,ios,3,2026-11-01
+596,AI Garden & Home: Nano Home,android,3,2026-11-01
+597,Muvi.Video: AI Video Maker,android,4,2026-11-01
+598,Lumpix - AI Photo Generator,android,11,2026-11-01
+599,Remodel AI - Home Room Design,ios,1,2026-11-01
+600,VifunAI : AI Video Generator,android,3,2026-11-01
+601,PicWish: AI写真加工&画像編集,ios,1,2026-11-01
+602,Home Interior Decor: AI Design,ios+android,3,2026-11-01
+603,Gerador de Imagem IA Farba,ios,1,2026-11-01
+604,Rosebud: AI Journal & Diary,android,2,2026-11-01
+605,Vexa: AI Video & Photo Maker,android,6,2026-11-01
+606,Bestie AI（ベスティー）: 話して、癒やして、愛して,ios,1,2026-11-01
+607,AI Voice to Text - Superflow,ios,7,2026-11-01
+608,Lumina - Your AI Confidant,android,5,2026-11-01
+609,Lumera AI: Food Video Maker,ios,-1,2026-11-01
+610,Bella-Anime AI Friend,android,5,2026-11-01
+611,AI Art & Image Generator: Gala,ios,-1,2026-11-01
+612,Dreamerland - AI Art & Video,ios,0,2026-11-01
+613,HomeMagic: AI Interior Design,android,5,2026-11-01
+614,AI Video Generator Photo Maker,android,9,2026-11-01
+615,SoleMan: Heartfelt AI Chat,android,2,2026-11-01
+616,Rithmm: AI Sports Predictions,ios+android,3,2026-11-01
+617,PPT AI: Presentation Maker App,ios,-1,2026-11-01
+618,Atricent: Your AI Stylist,ios,3,2026-11-01
+619,Luvlinx - AIチャットで彼氏や恋人と会話,ios,1,2026-11-01
+620,"dotdotdot: AI Romance, Stories",android,5,2026-11-01
+621,Clara - AI Receptionist,android,1,2026-11-01
+622,LUNA | 月に住む英会話パートナー,ios,2,2026-11-01
+623,Vetted AI Smart Shopping Agent,ios,3,2026-11-01
+624,PicsGen - AI Image & Video,android,7,2026-11-01
+625,Room Design AI: Home Decor,android,10,2026-11-01
+626,Cuddmi: AI Companion Chat,ios,2,2026-11-01
+627,Face Swap - Photo Editor AI,android,3,2026-11-01
+628,動画生成AI - TryVideo,ios,1,2026-11-01
+629,TransGull - AI Live Translator,android,7,2026-11-01
+630,Lollyy - AI Characters Chat,android,8,2026-11-01
+631,Filmit : AI Cinematic Video,ios,3,2026-11-01
+632,Toonly: AI Story & Comic Maker,android,1,2026-11-01
+633,Mozart AI: Song Generator,ios,4,2026-11-01
+634,Rymo: AI Music Video Maker,android,12,2026-11-01
+635,一撃くん - ボートレース穴予想特化AI by マクール,ios,5,2026-11-01
+636,AI Product Video & Ad - Pixury,ios,6,2026-11-01
+637,Okudu AI - Create stories,ios+android,7,2026-11-01
+638,Pawfex AI-AI Video Generation,android,3,2026-11-01
+639,MediSearch AI,ios,4,2026-11-01
+640,Moras: Create & Earn with AI,ios,7,2026-11-01
+641,OurTalk AI: Soulful Chat,android,7,2026-11-01
+642,Foto IA - Gerador de Imagem AI,ios,3,2026-11-01
+643,Dr.Oracle AI Medical Assistant,ios+android,6,2026-11-01
+644,TattooInk: AI Tattoo Generator,android,6,2026-11-01
+645,AI Tattoo Design: ArtReel,android,6,2026-11-01
+646,"Blushy-Face Swap,AI Tool&Talk",android,6,2026-11-01
+647,Daleel AI : Coran & Hadith,ios,6,2026-11-01
+648,カロミー：ダイエット・AIカロリー計算＆食事記録,ios,6,2026-11-01
+649,AI Home Design - Interium,ios,6,2026-11-01
+650,Home Guru- AI Interior Design,android,14,2026-11-01
+651,AI Hair Style Studio: Try On,android,8,2026-11-01
+652,Tattoo Style AI - Design Maker,ios,4,2026-11-01
+653,MECH AI: OBD2 Car Diagnostics,android,4,2026-11-01
+654,Laixen: Chat with AI Character,android,7,2026-11-01
+655,RyzaChat:AI,ios,3,2026-11-01
+656,Tyvix - AI Song Generator,android,6,2026-11-01
+657,Jam AI - AI Songs & Music,ios,3,2026-11-01
+658,Pippa - AI Roleplay & Chat,android,5,2026-11-01
+659,Ora AI: KI-Bildgenerator,ios,6,2026-11-01
+660,DreamShot - AI Image & Video,android,9,2026-11-01
+661,Chartnote: AI Medical Scribe,ios,5,2026-11-01
+662,Songdio - AI音楽生成・作曲・カバー・AI MV,ios,5,2026-11-01
+663,ウィフ - 思い通りのAIチャット（恋愛・BL）,ios,5,2026-11-01
+664,スタンプAI - ペットや子どもの写真1枚からスタンプ作成,ios,6,2026-11-01
+665,My Bunny: AI Anime Mate,android,6,2026-11-01
+666,Caveduck - AI Character Chat,android,6,2026-11-01
+667,ParaDoor: AI Interactive Story,android,6,2026-11-01
+668,Treblo - AI Music,ios,6,2026-11-01
+669,メローズ AI彼女・AI彼氏とAIキャラチャット・画像生成,ios,6,2026-11-01
+670,３秒敬語 - ３秒AIチャット,ios,new,2026-11-01
+671,Vimo AI: Photo to Video,android,6,2026-11-01
+672,Penny Stocks AI Screener Bot,android,4,2026-11-01
+673,Easy Prompt - Ai Video Prompt,android,7,2026-11-01
+674,RevReel: AI Car Edits,ios,4,2026-11-01
+675,Shortoo - AI Dramas & Comics,ios,10,2026-11-01
+676,Meshy AI: 3D Print Model Maker,ios+android,3,2026-11-01
+677,"라씨매매비서-대한민국대표AI, 매매신호, 주식투자필수앱",android,7,2026-11-01
+678,BetGPT - Palpites Futebol IA,ios,new,2026-11-01
+679,AI Video&Photo&AI Kiss-VidNex,android,2,2026-11-01
+680,AI Image Generator,android,7,2026-11-01
+681,Freed: AI Medical Scribe,ios,1,2026-11-01
+682,MusicLab: AI Song &Cover Maker,ios,1,2026-11-01
+683,Tattoo AI & Tattoo Design,android,5,2026-11-01
+684,AI画像&AI動画&画像生成AI&写真加工-PixDream,ios,5,2026-11-01
+685,Wann-AI Video&Image Generator,android,6,2026-11-01
+686,People Finder AI Deep Search,android,6,2026-11-01
+687,IF Drama Chat: AI Video,ios,3,2026-11-01
+688,Tune AI Music & Song Maker,ios,5,2026-11-01
+689,PollyBuzz: AI Chat Character,ios,10,2026-11-01
+690,Artisol - AI Video Generator,android,7,2026-11-01
+691,Stocks to Buy Now AI Signals,android,3,2026-11-01
+692,Med GPT: Assistant médical IA,ios,3,2026-11-01
+693,Recraft: KI-Bilder & Videos,ios,3,2026-11-01
+694,Glora AI: Photo & Video Editor,android,6,2026-11-01
+695,AI Video Generator: Video AI,ios,3,2026-11-01
+696,SongAI - AI Music Generator,android,7,2026-11-01
+697,Thrifty: AI Profit Identifier,ios,4,2026-11-01
+698,Flux AI: Video Photo Generator,ios,4,2026-11-01
+699,Yummy - Anime AI Chats Await,android,5,2026-11-01
+700,Mis Pronósticos AI,android,7,2026-11-01
+701,Maison AI: Home Design,ios,11,2026-11-01
+702,Remeshy: KI 3D-Druck Modelle,ios,4,2026-11-01
+703,SnapHome: AI Interior Design,ios,2,2026-11-01
+704,HairHunt: AI Hairstyle Try-On,android,4,2026-11-01
+705,Vídeo IA: Remover Objetos Foto,ios,4,2026-11-01
+706,AI画像生成・アニメイラストメーカー SUPPART,ios,4,2026-11-01
+707,Comics AI: Comic & Manga Maker,android,4,2026-11-01
+708,Visionary: AI Maker,android,10,2026-11-01
+709,"Sogni: AI Image, Video & Music",ios,4,2026-11-01
+710,AI Image to 3D Model Maker,android,4,2026-11-01
+711,Whoosh AI: AI Video Maker,android,5,2026-11-01
+712,Tripify - AI Trip Planner,android,3,2026-11-01
+713,EpNova-AI Dramas Video Maker,android,6,2026-11-01
+714,1min AI,ios,3,2026-11-01
+715,MoboDrama - AI Comic Dramas,ios,7,2026-11-01
+716,Barebone - AI Stock Research,ios,5,2026-11-01
+717,Nose Job Simulator AI: Nosefix,android,6,2026-11-01
+718,Roomly - AI Interior Design,ios,6,2026-11-01
+719,InFlux - AI Video Generator,android,9,2026-11-01
+720,画像生成AI,ios,5,2026-11-01
+721,AI画像生成アプリ！イラストや加工・編集ができる画像生成AI,ios,5,2026-11-01
+722,Pixlure - Arte com IA,ios,5,2026-11-01
+723,Novel AI - AI Story Generator,ios,new,2026-11-01
+724,plaitoon：AIキャラクターチャット,ios,5,2026-11-01
+725,AI Photo Video Maker,android,6,2026-11-01
+726,DSeek - Your AI Assistant,ios+android,7,2026-11-01
+727,KI-Tätowierungsdesign: ArtReel,ios,5,2026-11-01
+728,AI Car Mods: Modify & Designer,ios,8,2026-11-01
+729,Mojify: AI Emoji Maker,android,6,2026-11-01
+730,OpusClip - AI Video Clipping,android,4,2026-11-01
+731,mimel :AIチャットで推しとの恋愛・夢小説を現実に,ios,6,2026-11-01
+732,Beautify: AI Hairstyle Try On,android,7,2026-11-01
+733,Kiva: AI Product Video & Ads,ios+android,12,2026-11-01
+734,Mué – Outfit Maker & Closet,ios,4,2026-11-01
+735,SeeGen AI: Seedance 2.0 & 2.5,android,8,2026-11-01
+736,Genie AI - AI Video Generator,ios,5,2026-11-01
+737,Sintra: AI Employees,android,3,2026-11-01
+738,Moment AI: Easy AI Video Maker,android,8,2026-11-01
+739,"Car AI: Modify, Tune & Design",ios,5,2026-11-01
+740,modelai：AIアニメ・動画生成 オリキャラ イラスト,ios,2,2026-11-01
+741,Komiko：AIキャラ・OC・アート,ios,new,2026-11-01
+742,ThriftLens: AI Thrift Profit,ios,5,2026-11-01
+743,Koi AI - AI Video Generator,android,5,2026-11-01
+744,AI Photo Generator: Art & Face,android,10,2026-11-01
+745,PixelHeart - AI Girlfriend,android,6,2026-11-01
+746,Ayana AI: Feel Every Chat,android,3,2026-11-01
+747,Nsketch: Viral Video Generator,ios,5,2026-11-01
+748,GoGlow,android,5,2026-11-01
+749,Shortoo - AI Dramas & Comics,android,20,2026-11-01
+750,Rallies: AI Financial Copilot,ios,new,2026-11-01
+751,GammAI: Criador de Slides IA,ios,new,2026-11-01
+752,Cut.Pro: Cortes de Vídeo IA,ios,3,2026-11-01
+753,Facefame: AI Photo Generator,android,7,2026-11-01
+754,AI Home Design: Decor Interior,ios,2,2026-11-01
+755,AI Tattoo：Tattoo Design Maker,ios,2,2026-11-01
+756,Animo: Photo to Video AI,android,9,2026-11-01
+757,Offload AI,ios,2,2026-11-01
+758,AI Real-time Translator,ios,0,2026-11-01
+759,Nano Banana AI: Pro Banana Ai,android,2,2026-11-01
+760,PerfectSkin - AI Skin Coach,ios,3,2026-11-01
+761,PokeVid: AI Video Generator,android,3,2026-11-01
+762,Base44: Build with AI,ios,0,2026-11-01
+763,Songria — AI Song Generator,android,7,2026-11-01
+764,Dicte: Assistant IA réunions,ios+android,4,2026-11-01
+765,AIApply: AI Job Search & Apply,ios,2,2026-11-01
+766,FlyAds - AI Video Ads Maker,ios,0,2026-11-01
+767,EveryGen - AI-in-One Generator,ios,4,2026-11-01
+768,Magnet AI: Ton Coach Dating,ios,5,2026-11-01
+769,Orvani: AI Video Generator,android,12,2026-11-01
+770,Meki-推しと話せるAIチャット,ios,4,2026-11-01
+771,Lovyn - AI You'll Love,ios,4,2026-11-01
+772,Migoo - AI Team for Every Task,ios,4,2026-11-01
+773,Muvio - AI Music Video Maker,ios,4,2026-11-01
+774,競馬予想AI - UMADAN,ios,4,2026-11-01
+775,AI Room Planner: Home Design,android,11,2026-11-01
+776,画像生成AI AIイラスト AIアート - TryArt,android,6,2026-11-01
+777,Style Chat: AI Outfit Maker,android,6,2026-11-01
+778,FaceAlly: AI Baby & Age Editor,ios,1,2026-11-01
+779,Tunee: KI-Musik & Musikvideos,ios,1,2026-11-01
+780,Age Changer - Future Face AI,android,4,2026-11-01
+781,Riff: AI Outfit Editor,android,6,2026-11-01
+782,AI動画・音楽: DoReMi,ios,3,2026-11-01
+783,Ailo: IA de delivery do iFood,ios,5,2026-11-01
+784,Openart AI Art & Image Maker,ios,11,2026-11-01
+785,AiFans: AI That Feels Real,ios,4,2026-11-01
+786,Solmi: KI Musikvideo Maker,ios,new,2026-11-01
+787,Tuni: AI Music Video Maker,ios,3,2026-11-01
+788,Highfield Genjutsu AI,ios,3,2026-11-01
+789,DigitalDream - AI Girlfriend,android,4,2026-11-01
+790,Polymarket Prediction Alert AI,ios,2,2026-11-01
+791,Ai Image To Video Generator,android,10,2026-11-01
+792,DealUp AI: Achats d’occasion,ios,2,2026-11-01
+793,Fizzz: AI Chat & Stories,android,13,2026-11-01
+794,Solo - AI Marketing Team,ios,2,2026-11-01
+795,DeepZik | AI music generator,android,3,2026-11-01
+796,Ancestora AI: Portrait & Roots,ios,6,2026-11-01
+797,Fizzz: AI Chat & Stories,ios,3,2026-11-01
+798,Fieldy - AI note taker,android,5,2026-11-01
+799,Vibe Code: AI Code Generator,ios,5,2026-11-01
+800,rackline.ai - AI Deer Scoring,ios,5,2026-11-01
+801,Midas: AI Car Modification,android,7,2026-11-01
+802,HairLook: AI Hairstyle Try On,android,5,2026-11-01
+803,Mobile IDE：AIアプリ作成＆コード生成,ios,6,2026-11-01
+804,PixGen: AI Photo Editor,android,23,2026-11-01
+805,Meshy AI 3D-Generator,ios,new,2026-11-01
+806,Xhat - AI without Boundaries,ios,5,2026-11-01
+807,AI Face Score: FaceChecker,android,3,2026-11-01
+808,"Base44 IDE, AI Code Assistant",ios,4,2026-11-01
+809,Mobile IDE for Antigravity AI,ios,4,2026-11-01
+810,AI Hair Try On & Color Changer,android,4,2026-11-01
+811,MENS AI - 男性向けマッチングアプリ写真加工,ios,4,2026-11-01
+812,Voice Changer AI Sound Effects,android,8,2026-11-01
+813,FreeMilk: AI Code IDE & Agents,ios,3,2026-11-01
+814,Wapply : Emploi & CV par IA,ios,3,2026-11-01
+815,AI Video Generator & AI Editor,ios,3,2026-11-01
+816,OnSpace AI: Mobile App Builder,ios,3,2026-11-01
+817,AI Listing Assistant,ios,4,2026-11-01
+818,JoyClip AI,android,5,2026-11-01
+819,Decor AI: Remodel Home Design,ios,3,2026-11-01
+820,Ai Chat & Video-Roleplay,android,6,2026-11-01
+821,AI Music Generator PRO X,ios,17,2026-11-01
+822,FastVid AI: Photo to Video,android,8,2026-11-01
+823,Artimind - AI Video Generator,ios,1,2026-11-01
+824,Fin Photo - AI Photo Editor,android,1,2026-11-01
+825,AI App Builder - FlutterPilot,ios,3,2026-11-01
+826,PreLoved AI: Vinted Listings,ios,5,2026-11-01
+827,MedGPT,ios,5,2026-11-01
+828,GameForge AI: Code & Build,ios,5,2026-11-01
+829,Home Design- Ai Room Planner,android,8,2026-11-01
+830,VidEffect: AI Video Effects,ios,6,2026-11-01
+831,秘密のAI彼氏 - DoloPlanet,ios,4,2026-11-01
+832,Pictora - AI Photo Generator,android,7,2026-11-01
+833,ViviMotion: AI Photo & Video,ios,new,2026-11-01
+834,ReelMe AI: Art Video Generator,android,8,2026-11-01
+835,Happy Space - AI Home Design,ios+android,5,2026-11-01
+836,Cload AI -Chatbot IA português,ios,8,2026-11-01
+837,Character.Me: AI Chat & Story,android,4,2026-11-01
+838,SUPPART: AI Image Creator,android,7,2026-11-01
+839,Nano AI - for Ollama,ios,4,2026-11-01
+840,GGNote - AI耳コピ・TAB譜,ios,7,2026-11-01
+841,Nimvra: AI Art Creator,android,14,2026-11-01
+842,Movify: AI Video Generator,android,9,2026-11-01
+843,Vidverse: AI Video Editor,ios,5,2026-11-01
+844,Danelfin: AI Stock Analysis,ios,2,2026-11-01
+845,Receitei: Receitas com IA,ios,5,2026-11-01
+846,ScoreGPT AI Football Predictor,android,10,2026-11-01
+847,汽水音乐: AI Music Generator,ios,5,2026-11-01
+848,PropGPT: AI Props Analysis,android,6,2026-11-01
+849,BOAT RACE AI - 競艇予想,ios,4,2026-11-01
+850,Solavie: Zimmer Einrichten KI,ios,new,2026-11-01
+851,AI for Kids・Askie,android,9,2026-11-01
+852,MLXHub: ローカルAIチャット,ios,6,2026-11-01
+853,ReelFig: AI Video Generator,android,21,2026-11-01
+854,AI Avatar Creator & Cartoonify,android,new,2026-11-01
+855,Nuvori: AI Video Generator,android,17,2026-11-01
+856,AI Home Design - Renovo,android,6,2026-11-01
+857,ManPick: My Perfect AI,android,4,2026-11-01
+858,Vyrid - AI Photo Maker,android,12,2026-11-01
+859,Wine Whiz：AIソムリエのワインラベルスキャン・記録,ios,new,2026-11-01
+860,お宝鑑定 - 写真1枚で買取相場・値段をAI査定,ios,-1,2026-11-01
+861,DreamWeave AI:AI Art Generator,ios,2,2026-11-01
+862,Crosslist AI: Reseller Listing,ios,3,2026-11-01
+863,AIマインドクリップ,ios,3,2026-11-01
+864,Sorax: Create AI Video,ios,3,2026-11-01
+865,AI Outfit: Try On Clothes,android,8,2026-11-01
+866,Lingua - AI Learn English,ios,2,2026-11-01
+867,Dwellia: AI Space Design,ios,9,2026-11-01
+868,Geeps: AI Chat BYOK,ios,1,2026-11-01
+869,GG AI Football Predictions,ios,2,2026-11-01
+870,Highfield Video AI,ios,7,2026-11-01
+871,ApexPixel - AI Image to Video,android,8,2026-11-01
+872,Fitty: AI Virtual Try-On,ios,3,2026-11-01
+873,ViralPet: AI Pet Video Maker,android,9,2026-11-01
+874,AI Home Design: Room Remodel,ios,6,2026-11-01
+875,HairGenie – Penteados com IA,ios,6,2026-11-01
+876,Provador Virtual: Roupa IA,ios,7,2026-11-01
+877,SpecFit : Essayage lunettes IA,ios,10,2026-11-01
+878,Fytiva: AI Video Generator,android,7,2026-11-01
+879,Wabi: AI Assistant,android,13,2026-11-01
+880,Smart Chatbot & AI Assistant,ios,6,2026-11-01
+881,Bento Chef: Receitas com IA,ios,7,2026-11-01
+882,Solmi: AI Music Video Maker,android,9,2026-11-01
+883,Veluna: AI Image & Video,android,15,2026-11-01
+884,"AI Content Detector, Humanizer",ios,9,2026-11-01
+885,Agent Limbo: AI Coding,ios,9,2026-11-01
+886,Apparel AI : Outfit Generator,ios,9,2026-11-01
+887,Prompt It Your AI Prompt Vault,ios,10,2026-11-01
+888,MoneyVoz - Música com IA,ios,8,2026-11-01
+889,VeivoVerse: AI Video Generator,android,10,2026-11-01
+890,LLMAPI: AI Chat & API,ios,10,2026-11-01
+891,Legit Check AI,ios,new,2026-11-01
+892,Couple AI - AI Photo Generator,android,11,2026-11-01
+893,HomeGPT: AI Interior Design,android,9,2026-11-01
+894,Vimora: AI Video Generator,android,10,2026-11-01
+895,DreamWeave AI:AI Art Generator,android,6,2026-11-01
+896,PopiLab: AI Roleplay & Stories,android,9,2026-11-01
+897,Pixvi: AI Video & Image,android,10,2026-11-01
+898,CoeFont Interpreter,android,new,2026-11-01
+899,"Persona AI: Chat, Story, Play",android,10,2026-11-01
+900,Viramuse AI Video Generator,android,8,2026-11-01
+901,Artlume: AI Video Gen,android,new,2026-11-01
+902,VidEffect-AI Effects Maker,android,9,2026-11-01
+903,AI Receptionist — SkipCalls,android,7,2026-11-01
+904,Reelify: AI Video Generator,android,8,2026-11-01
+905,AI Makeup - Makeup Check AI,android,8,2026-11-01
+906,AI Hairstyle & Hair Cut Editor,android,8,2026-11-01
+907,NexFrame: AI Video Maker,android,8,2026-11-01
+908,PicMo: AI Video Maker,android,8,2026-11-01
+909,Manga Studio: AI Comic Maker,android,8,2026-11-01
+910,Deco - AI Home Design,ios+android,13,2026-11-01
+911,PetLive：Pet's New Exp By AI,android,8,2026-11-01
+912,rackline.ai - AI Deer Scoring,android,6,2026-11-01
+913,ClipNova AI,android,9,2026-11-01
+914,Design Home - AI Home Makeover,android,7,2026-11-01
+915,Snip: AI Hairstyle Try-On,android,5,2026-11-01
+916,VidImg | AI Photo & Video,android,10,2026-11-01
+917,Xpic Ai:Photo&Video Maker,android,7,2026-11-01
+918,Vidfig: AI Video Maker,android,7,2026-11-01
+919,VEXO: AI Video Generator,android,9,2026-11-01
+920,AI Tattoo Generator & Maker,android,7,2026-11-01
+921,Plant Identifier - AI Plants,android,8,2026-11-01
+922,Langzy: AI Language Tutor,android,new,2026-11-01
+923,Pixora: AI Photo Studio,android,8,2026-11-01
+924,Pixi Pro-AI Photo&Video Maker,android,6,2026-11-01
+925,AI Home & Room Design: DecoAI,android,8,2026-11-01
+926,Vidoza AI Video Maker,android,6,2026-11-01
+927,Auvrix：AI Video Gen,android,21,2026-11-01
+928,Sogni Create AI Generator,android,6,2026-11-01
+929,PixClip: AI Video&Image Maker,android,7,2026-11-01
+930,AI Interior Design: Home Plan,android,5,2026-11-01
+931,ECG Buddy | ECG Analysis AI,android,new,2026-11-01
+932,FrameBloom: AI Photo Stories,android,13,2026-11-01
+933,Roomture: AI Interior Design,android,4,2026-11-01
+934,Spaace It: AI Interior Design,android,5,2026-11-01
+935,ReelCraft AI,android,3,2026-11-01
+936,Cost AI: Construction Estimate,android,4,2026-11-01
+937,Vireluma AI,android,4,2026-11-01
+938,Storyla AI: Photo to Video,android,4,2026-11-01
+939,LumaSprig: AI Photo Motion,android,4,2026-11-01
+940,Fambot: AI Family Assistant,android,4,2026-11-01
+941,Vuzor: AI Photo to Video,android,5,2026-11-01
+942,FantasyPic: AI Art & Video,android,5,2026-11-01
+943,Homely: AI Home Decor,android,6,2026-11-01
+944,AI Couple : Video Generator,android,6,2026-11-01
