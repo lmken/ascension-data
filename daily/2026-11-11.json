@@ -277,15 +277,15 @@
   {
    "rank": 37,
    "app": "Google Flow",
-   "platform": "android",
-   "change": 1,
+   "platform": "ios+android",
+   "change": 0,
    "date": "2026-11-11"
   },
   {
    "rank": 38,
    "app": "Tipsy: Live Your Story",
    "platform": "android",
-   "change": -1,
+   "change": 0,
    "date": "2026-11-11"
   },
   {
@@ -523,7 +523,7 @@
    "rank": 72,
    "app": "Captions: AI Edits Your Video",
    "platform": "ios",
-   "change": 1,
+   "change": 2,
    "date": "2026-11-11"
   },
   {
@@ -551,7 +551,7 @@
    "rank": 76,
    "app": "AI Photo Video Maker, Enhancer",
    "platform": "android",
-   "change": -2,
+   "change": -3,
    "date": "2026-11-11"
   },
   {
@@ -992,7 +992,7 @@
    "rank": 139,
    "app": "Whispy AI: Create Your Story",
    "platform": "ios+android",
-   "change": 4,
+   "change": 5,
    "date": "2026-11-11"
   },
   {
@@ -1020,21 +1020,21 @@
    "rank": 143,
    "app": "AI Voice Chat Bot: Open Wisdom",
    "platform": "android",
-   "change": 1,
+   "change": 0,
    "date": "2026-11-11"
   },
   {
    "rank": 144,
-   "app": "Kindroid: Your Personal AI",
-   "platform": "ios+android",
-   "change": 9,
+   "app": "WingAI: Your AI Wingman",
+   "platform": "android",
+   "change": -2,
    "date": "2026-11-11"
   },
   {
    "rank": 145,
-   "app": "WingAI: Your AI Wingman",
-   "platform": "android",
-   "change": -3,
+   "app": "Kindroid: Your Personal AI",
+   "platform": "ios+android",
+   "change": 8,
    "date": "2026-11-11"
   },
   {
@@ -1412,7 +1412,7 @@
    "rank": 199,
    "app": "AI Remodel - Interior Design",
    "platform": "android",
-   "change": 11,
+   "change": 12,
    "date": "2026-11-11"
   },
   {
@@ -1501,16 +1501,16 @@
   },
   {
    "rank": 212,
-   "app": "Object Removal AI Retouch",
-   "platform": "ios",
-   "change": 465,
+   "app": "Aippy: AI Game Maker",
+   "platform": "android",
+   "change": 0,
    "date": "2026-11-11"
   },
   {
    "rank": 213,
-   "app": "Aippy: AI Game Maker",
-   "platform": "android",
-   "change": -1,
+   "app": "Object Removal AI Retouch",
+   "platform": "ios",
+   "change": 463,
    "date": "2026-11-11"
   },
   {
@@ -1538,7 +1538,7 @@
    "rank": 217,
    "app": "AI Video Generator: Livensa",
    "platform": "android",
-   "change": -6,
+   "change": -7,
    "date": "2026-11-11"
   },
   {
@@ -1550,16 +1550,16 @@
   },
   {
    "rank": 219,
-   "app": "VocalMe: AI Music Generator",
-   "platform": "ios",
-   "change": 6,
+   "app": "Soccer Tips AI - Scouter",
+   "platform": "android",
+   "change": -1,
    "date": "2026-11-11"
   },
   {
    "rank": 220,
-   "app": "Soccer Tips AI - Scouter",
-   "platform": "android",
-   "change": -2,
+   "app": "VocalMe: AI Music Generator",
+   "platform": "ios",
+   "change": 5,
    "date": "2026-11-11"
   },
   {
@@ -1830,16 +1830,16 @@
   },
   {
    "rank": 259,
-   "app": "Framly - AI Photo Video Maker",
+   "app": "RoomGPT AI - Interior Design",
    "platform": "android",
-   "change": 18,
+   "change": -7,
    "date": "2026-11-11"
   },
   {
    "rank": 260,
-   "app": "RoomGPT AI - Interior Design",
+   "app": "Framly - AI Photo Video Maker",
    "platform": "android",
-   "change": -8,
+   "change": 17,
    "date": "2026-11-11"
   },
   {
@@ -2012,16 +2012,16 @@
   },
   {
    "rank": 285,
-   "app": "Gênio IA: Gravador de aulas",
-   "platform": "ios",
-   "change": 15,
+   "app": "Genera: AI Video Generator",
+   "platform": "android",
+   "change": -3,
    "date": "2026-11-11"
   },
   {
    "rank": 286,
-   "app": "Genera: AI Video Generator",
-   "platform": "android",
-   "change": -4,
+   "app": "Gênio IA: Gravador de aulas",
+   "platform": "ios",
+   "change": 14,
    "date": "2026-11-11"
   },
   {
@@ -2119,14 +2119,14 @@
    "rank": 300,
    "app": "Lynix: AI Photo & Video Maker",
    "platform": "android",
-   "change": -9,
+   "change": -8,
    "date": "2026-11-11"
   },
   {
    "rank": 301,
    "app": "Vozo AI Video Translator & Dub",
    "platform": "ios+android",
-   "change": 18,
+   "change": 16,
    "date": "2026-11-11"
   },
   {
@@ -2161,7 +2161,7 @@
    "rank": 306,
    "app": "Cuddmi: AI Companion Chat",
    "platform": "ios",
-   "change": 11,
+   "change": 12,
    "date": "2026-11-11"
   },
   {
@@ -2210,7 +2210,7 @@
    "rank": 313,
    "app": "iLands: Raise Your Sole AI",
    "platform": "android",
-   "change": 1,
+   "change": 0,
    "date": "2026-11-11"
   },
   {
@@ -2224,7 +2224,7 @@
    "rank": 315,
    "app": "AI Translator: Voice & Screen",
    "platform": "android",
-   "change": -2,
+   "change": -1,
    "date": "2026-11-11"
   },
   {
@@ -2259,7 +2259,7 @@
    "rank": 320,
    "app": "Chatbot AI Assistant ChatPrime",
    "platform": "ios",
-   "change": -2,
+   "change": -1,
    "date": "2026-11-11"
   },
   {
@@ -2313,16 +2313,16 @@
   },
   {
    "rank": 328,
-   "app": "ReShoot: AI Face Photo Editor",
-   "platform": "ios",
-   "change": 7,
+   "app": "Cartoon Photo Editor ・Toon AI",
+   "platform": "android",
+   "change": -43,
    "date": "2026-11-11"
   },
   {
    "rank": 329,
-   "app": "Cartoon Photo Editor ・Toon AI",
-   "platform": "android",
-   "change": -44,
+   "app": "ReShoot: AI Face Photo Editor",
+   "platform": "ios",
+   "change": 6,
    "date": "2026-11-11"
   },
   {
@@ -2397,16 +2397,16 @@
   },
   {
    "rank": 340,
-   "app": "Fotura: AI PhotoKit",
-   "platform": "ios",
-   "change": 13,
+   "app": "VoClone: AI Voice Changer",
+   "platform": "android",
+   "change": 2,
    "date": "2026-11-11"
   },
   {
    "rank": 341,
-   "app": "VoClone: AI Voice Changer",
-   "platform": "android",
-   "change": 1,
+   "app": "Fotura: AI PhotoKit",
+   "platform": "ios",
+   "change": 12,
    "date": "2026-11-11"
   },
   {
@@ -2420,14 +2420,14 @@
    "rank": 343,
    "app": "OurTalk AI: Soulful Chat",
    "platform": "android",
-   "change": -5,
+   "change": -6,
    "date": "2026-11-11"
   },
   {
    "rank": 344,
    "app": "Studyflash: KI-Lernapp",
    "platform": "ios",
-   "change": -7,
+   "change": -6,
    "date": "2026-11-11"
   },
   {
@@ -2453,23 +2453,23 @@
   },
   {
    "rank": 348,
-   "app": "Google Flow",
-   "platform": "ios",
-   "change": 12,
+   "app": "NestAI: AI Home, Room Planner",
+   "platform": "android",
+   "change": 3,
    "date": "2026-11-11"
   },
   {
    "rank": 349,
-   "app": "NestAI: AI Home, Room Planner",
-   "platform": "android",
-   "change": 2,
+   "app": "Meshy AI: 3D Print Model Maker",
+   "platform": "ios+android",
+   "change": 5,
    "date": "2026-11-11"
   },
   {
    "rank": 350,
-   "app": "Meshy AI: 3D Print Model Maker",
+   "app": "Spellai - AI Art Maker",
    "platform": "ios+android",
-   "change": 4,
+   "change": 77,
    "date": "2026-11-11"
   },
   {
@@ -2481,9 +2481,9 @@
   },
   {
    "rank": 352,
-   "app": "Spellai - AI Art Maker",
-   "platform": "ios+android",
-   "change": 76,
+   "app": "AI Music Video Generator・Shoom",
+   "platform": "ios",
+   "change": -4,
    "date": "2026-11-11"
   },
   {
@@ -2495,310 +2495,310 @@
   },
   {
    "rank": 354,
-   "app": "AI Music Video Generator・Shoom",
+   "app": "Prompt Gallery - AI Prompts",
+   "platform": "android",
+   "change": -2,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 355,
+   "app": "RotoBot - AI Sports Insights",
    "platform": "ios",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 355,
-   "app": "Prompt Gallery - AI Prompts",
-   "platform": "android",
-   "change": -3,
-   "date": "2026-11-11"
-  },
-  {
    "rank": 356,
-   "app": "RotoBot - AI Sports Insights",
-   "platform": "ios",
-   "change": -7,
+   "app": "SelfyzAI: AI Video Generator",
+   "platform": "android",
+   "change": 20,
    "date": "2026-11-11"
   },
   {
    "rank": 357,
    "app": "AI Home Design - Decor",
    "platform": "android",
-   "change": -18,
+   "change": -17,
    "date": "2026-11-11"
   },
   {
    "rank": 358,
-   "app": "SelfyzAI: AI Video Generator",
-   "platform": "android",
-   "change": 19,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 359,
    "app": "Heidi — AI Care Partner",
    "platform": "ios",
    "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 360,
+   "rank": 359,
    "app": "Ai Image To Video Generator",
    "platform": "android",
-   "change": -3,
+   "change": -2,
    "date": "2026-11-11"
   },
   {
-   "rank": 361,
-   "app": "ParaDoor: AI Interactive Story",
-   "platform": "android",
-   "change": 19,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 362,
-   "app": "Woola - AI Photo Enhancer",
-   "platform": "android",
-   "change": 6,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 363,
+   "rank": 360,
    "app": "AI Generator - Photo Revive",
    "platform": "ios",
    "change": 0,
    "date": "2026-11-11"
   },
   {
-   "rank": 364,
+   "rank": 361,
    "app": "AI Video Generator : SelfyzAI+",
    "platform": "android",
-   "change": -24,
+   "change": -22,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 362,
+   "app": "ParaDoor: AI Interactive Story",
+   "platform": "android",
+   "change": 17,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 363,
+   "app": "AI Song Generator - Zona",
+   "platform": "ios",
+   "change": 6,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 364,
+   "app": "Woola - AI Photo Enhancer",
+   "platform": "android",
+   "change": 3,
    "date": "2026-11-11"
   },
   {
    "rank": 365,
    "app": "Pippa - AI Roleplay & Chat",
    "platform": "android",
-   "change": 7,
+   "change": 6,
    "date": "2026-11-11"
   },
   {
    "rank": 366,
-   "app": "AI Song Generator - Zona",
-   "platform": "ios",
-   "change": 4,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 367,
    "app": "CraftNote - IA Prise de Notes",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 368,
-   "app": "XTranslator Live: AI Translate",
-   "platform": "android",
-   "change": -21,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 369,
-   "app": "SeaArt AI: Photo & Video Maker",
+   "rank": 367,
+   "app": "SchoolMouv - AI Tutor & Quiz",
    "platform": "android",
    "change": -11,
    "date": "2026-11-11"
   },
   {
-   "rank": 370,
-   "app": "SchoolMouv - AI Tutor & Quiz",
+   "rank": 368,
+   "app": "SeaArt AI: Photo & Video Maker",
    "platform": "android",
-   "change": -14,
+   "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 371,
+   "rank": 369,
+   "app": "XTranslator Live: AI Translate",
+   "platform": "android",
+   "change": -22,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 370,
    "app": "AI Photo - AI Video Generator",
    "platform": "android",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 372,
+   "rank": 371,
    "app": "Rymo: AI Music Video Maker",
    "platform": "android",
-   "change": -11,
+   "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 373,
+   "rank": 372,
    "app": "Socratic AI - Homework Helper",
    "platform": "ios",
    "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 374,
+   "rank": 373,
    "app": "Okudu AI - Create stories",
    "platform": "ios+android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 375,
+   "rank": 374,
    "app": "AI Photo Enhancer and Remover",
    "platform": "android",
-   "change": 19,
+   "change": 18,
    "date": "2026-11-11"
   },
   {
-   "rank": 376,
+   "rank": 375,
    "app": "Photo Editor - AI Face Swap",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
+   "rank": 376,
+   "app": "PhotoApp - AI Photo Enhancer",
+   "platform": "android",
+   "change": 67,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 377,
    "app": "AI Home Design - Ruma",
    "platform": "ios",
-   "change": 4,
+   "change": 5,
    "date": "2026-11-11"
   },
   {
    "rank": 378,
-   "app": "PhotoApp - AI Photo Enhancer",
-   "platform": "android",
-   "change": 66,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 379,
    "app": "AI Video Generator",
    "platform": "android",
    "change": 27,
    "date": "2026-11-11"
   },
   {
-   "rank": 380,
+   "rank": 379,
    "app": "Keily-AI Soulmate Chat",
    "platform": "android",
    "change": -16,
    "date": "2026-11-11"
   },
   {
-   "rank": 381,
+   "rank": 380,
    "app": "AI Photo Generator - AURA AI",
    "platform": "android",
-   "change": -45,
+   "change": -44,
    "date": "2026-11-11"
   },
   {
-   "rank": 382,
-   "app": "AI Catch: AI Video Generator",
-   "platform": "ios",
-   "change": -6,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 383,
+   "rank": 381,
    "app": "Friends – Raise AI Companions",
    "platform": "android",
    "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 384,
+   "rank": 382,
+   "app": "AI Catch: AI Video Generator",
+   "platform": "ios",
+   "change": -7,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 383,
    "app": "ReelFig: AI Video Generator",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 385,
+   "rank": 384,
    "app": "Orvani: AI Video Generator",
    "platform": "android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
+   "rank": 385,
+   "app": "AI Siren",
+   "platform": "android",
+   "change": -19,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 386,
    "app": "Moras: Create & Earn with AI",
    "platform": "ios",
-   "change": 10,
+   "change": 11,
    "date": "2026-11-11"
   },
   {
    "rank": 387,
-   "app": "AI Siren",
-   "platform": "android",
-   "change": -20,
+   "app": "AI Music: Song & Voice Maker",
+   "platform": "ios",
+   "change": 4,
    "date": "2026-11-11"
   },
   {
    "rank": 388,
-   "app": "AI Music: Song & Voice Maker",
-   "platform": "ios",
-   "change": 5,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 389,
    "app": "Eliott | Tuteur IA & Révisions",
    "platform": "ios",
    "change": -20,
    "date": "2026-11-11"
   },
   {
-   "rank": 390,
+   "rank": 389,
    "app": "Honeydew: Recipe & Cookbook AI",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
+   "rank": 390,
+   "app": "AI Photo Enhancer: Gen Art",
+   "platform": "android",
+   "change": -40,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 391,
    "app": "Atricent: Your AI Stylist",
    "platform": "ios",
-   "change": -1,
+   "change": -2,
    "date": "2026-11-11"
   },
   {
    "rank": 392,
-   "app": "AI Photo Enhancer: Gen Art",
-   "platform": "android",
-   "change": -42,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 393,
    "app": "AI Video&Photo&AI Kiss-VidNex",
    "platform": "android",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 394,
+   "rank": 393,
    "app": "AniFlow - AI Anime Video Maker",
    "platform": "ios+android",
    "change": -3,
    "date": "2026-11-11"
   },
   {
-   "rank": 395,
+   "rank": 394,
    "app": "AllureGF: AI Romance Chat",
    "platform": "android",
-   "change": 9,
+   "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 396,
+   "rank": 395,
    "app": "VifunAI : AI Video Generator",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 397,
+   "rank": 396,
    "app": "ARTA: AI Art & Photo Generator",
    "platform": "android",
-   "change": 18,
+   "change": 16,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 397,
+   "app": "AI Home Decor-Interior Design",
+   "platform": "ios",
+   "change": -2,
    "date": "2026-11-11"
   },
   {
@@ -2810,940 +2810,940 @@
   },
   {
    "rank": 399,
-   "app": "AI Home Decor-Interior Design",
-   "platform": "ios",
-   "change": -2,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 400,
    "app": "Deco - AI Home Design",
    "platform": "ios+android",
    "change": -11,
    "date": "2026-11-11"
   },
   {
-   "rank": 401,
+   "rank": 400,
    "app": "CoeFont通訳 - 音声 翻訳 ・ AI 同時 通訳",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 402,
+   "rank": 401,
    "app": "AIイラスト,画像生成,消しゴムマジック - Pictor",
    "platform": "ios",
-   "change": 33,
+   "change": 31,
    "date": "2026-11-11"
   },
   {
-   "rank": 403,
+   "rank": 402,
    "app": "AIアシスタントくん - 宿題・悩み相談もOKな日本語AI",
    "platform": "ios",
    "change": 26,
    "date": "2026-11-11"
   },
   {
-   "rank": 404,
+   "rank": 403,
    "app": "AI英会話 無限にトークできる-エンドレス",
    "platform": "ios",
    "change": 16,
    "date": "2026-11-11"
   },
   {
-   "rank": 405,
+   "rank": 404,
    "app": "Landscape Design - AI Garden",
    "platform": "android",
-   "change": 5,
+   "change": 3,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 405,
+   "app": "Filmit : AI Cinematic Video",
+   "platform": "ios",
+   "change": -2,
    "date": "2026-11-11"
   },
   {
    "rank": 406,
-   "app": "Filmit : AI Cinematic Video",
-   "platform": "ios",
-   "change": -3,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 407,
    "app": "Flixart - AI Photo Generator",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
+   "rank": 407,
+   "app": "WOMBO Dream - AI Art Generator",
+   "platform": "android",
+   "change": 70,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 408,
    "app": "KissMe Ai Kiss Video Generator",
    "platform": "android",
-   "change": -43,
+   "change": -44,
    "date": "2026-11-11"
   },
   {
    "rank": 409,
-   "app": "WOMBO Dream - AI Art Generator",
-   "platform": "android",
-   "change": 69,
+   "app": "Dreamina AI: Image&Video Maker",
+   "platform": "ios+android",
+   "change": -13,
    "date": "2026-11-11"
   },
   {
    "rank": 410,
-   "app": "Dreamina AI: Image&Video Maker",
-   "platform": "ios+android",
-   "change": -12,
+   "app": "Piclux: AI Photo Studio",
+   "platform": "android",
+   "change": -29,
    "date": "2026-11-11"
   },
   {
    "rank": 411,
-   "app": "Pawfex AI-AI Video Generation",
+   "app": "FotoPro: AI Art, Image & Video",
    "platform": "android",
-   "change": -9,
+   "change": -17,
    "date": "2026-11-11"
   },
   {
    "rank": 412,
-   "app": "Piclux: AI Photo Studio",
+   "app": "Pawfex AI-AI Video Generation",
    "platform": "android",
-   "change": -28,
+   "change": -11,
    "date": "2026-11-11"
   },
   {
    "rank": 413,
    "app": "Ora AI: AI Image Builder",
    "platform": "ios",
-   "change": -6,
+   "change": -7,
    "date": "2026-11-11"
   },
   {
    "rank": 414,
-   "app": "FotoPro: AI Art, Image & Video",
-   "platform": "android",
-   "change": -19,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 415,
    "app": "Stemz: AI Tool for Musicians",
    "platform": "android",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 416,
+   "rank": 415,
    "app": "AI Tattoo Design: ArtReel",
    "platform": "android",
-   "change": -2,
+   "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 417,
+   "rank": 416,
    "app": "PicsGen - AI Image & Video",
    "platform": "android",
    "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 418,
+   "rank": 417,
    "app": "Tyvix - AI Song Generator",
    "platform": "android",
-   "change": 4,
+   "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 419,
+   "rank": 418,
    "app": "PicMa: AI Video&Photo Enhancer",
    "platform": "android",
    "change": 19,
    "date": "2026-11-11"
   },
   {
-   "rank": 420,
+   "rank": 419,
    "app": "AI Home Design: Room Decor",
    "platform": "android",
    "change": 17,
    "date": "2026-11-11"
   },
   {
+   "rank": 420,
+   "app": "MagicLight:AI Long Video Maker",
+   "platform": "android",
+   "change": -9,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 421,
    "app": "Pavo - AI Image & Video Maker",
    "platform": "ios+android",
-   "change": 6,
+   "change": 5,
    "date": "2026-11-11"
   },
   {
    "rank": 422,
-   "app": "MagicLight:AI Long Video Maker",
+   "app": "Suka:AI Character&AI Story",
    "platform": "android",
-   "change": -10,
+   "change": 16,
    "date": "2026-11-11"
   },
   {
    "rank": 423,
    "app": "Lumpix - AI Photo Generator",
    "platform": "android",
-   "change": 17,
+   "change": 16,
    "date": "2026-11-11"
   },
   {
    "rank": 424,
-   "app": "Suka:AI Character&AI Story",
-   "platform": "android",
-   "change": 15,
+   "app": "ReStyle - Penteado IA Virtual",
+   "platform": "ios",
+   "change": 20,
    "date": "2026-11-11"
   },
   {
    "rank": 425,
    "app": "Treblo - AI Music",
    "platform": "ios",
-   "change": 8,
+   "change": 9,
    "date": "2026-11-11"
   },
   {
    "rank": 426,
-   "app": "ReStyle - Penteado IA Virtual",
-   "platform": "ios",
-   "change": 19,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 427,
    "app": "Kimi - Your Personal AI Agent",
    "platform": "ios",
    "change": -10,
    "date": "2026-11-11"
   },
   {
+   "rank": 427,
+   "app": "Laixen: Chat with AI Character",
+   "platform": "android",
+   "change": -9,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 428,
    "app": "Lumera AI: Food Video Maker",
    "platform": "ios",
-   "change": -3,
+   "change": -4,
    "date": "2026-11-11"
   },
   {
    "rank": 429,
-   "app": "Laixen: Chat with AI Character",
-   "platform": "android",
-   "change": -10,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 430,
    "app": "Hairify - AI Hairstyle Try On",
    "platform": "ios",
    "change": -9,
    "date": "2026-11-11"
   },
   {
-   "rank": 431,
+   "rank": 430,
    "app": "Popia Chat: AI Roleplay",
    "platform": "android",
    "change": 52,
    "date": "2026-11-11"
   },
   {
-   "rank": 432,
+   "rank": 431,
    "app": "CozyAI - AI Home Design",
    "platform": "ios",
-   "change": -9,
+   "change": -8,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 432,
+   "app": "Cry Analyzer AI Baby Tracker",
+   "platform": "android",
+   "change": 65,
    "date": "2026-11-11"
   },
   {
    "rank": 433,
-   "app": "Cry Analyzer AI Baby Tracker",
-   "platform": "android",
-   "change": 66,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 434,
    "app": "Lumo by Proton",
    "platform": "android",
    "change": -16,
    "date": "2026-11-11"
   },
   {
-   "rank": 435,
+   "rank": 434,
    "app": "Botify AI: Chatbot & Companion",
    "platform": "android",
-   "change": -4,
+   "change": -5,
    "date": "2026-11-11"
   },
   {
-   "rank": 436,
+   "rank": 435,
    "app": "AI Tattoo Design",
    "platform": "android",
    "change": 18,
    "date": "2026-11-11"
   },
   {
+   "rank": 436,
+   "app": "Trade AI: Chart AI Analysis",
+   "platform": "ios",
+   "change": 19,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 437,
-   "app": "Kiva: AI Product Video & Ads",
-   "platform": "ios+android",
-   "change": -29,
+   "app": "Face Dance: AI Photo Animator",
+   "platform": "android",
+   "change": 66,
    "date": "2026-11-11"
   },
   {
    "rank": 438,
-   "app": "Trade AI: Chart AI Analysis",
-   "platform": "ios",
-   "change": 18,
+   "app": "Kiva: AI商品動画・広告メーカー",
+   "platform": "ios+android",
+   "change": -30,
    "date": "2026-11-11"
   },
   {
    "rank": 439,
-   "app": "Face Dance: AI Photo Animator",
-   "platform": "android",
-   "change": 65,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 440,
    "app": "Mureka: AI Radio & Music Maker",
    "platform": "ios+android",
    "change": 17,
    "date": "2026-11-11"
   },
   {
-   "rank": 441,
+   "rank": 440,
    "app": "Decor AI: Room & Home Design",
    "platform": "ios",
    "change": 19,
    "date": "2026-11-11"
   },
   {
-   "rank": 442,
+   "rank": 441,
    "app": "AI Song & Music Maker-Musicful",
    "platform": "android",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 443,
+   "rank": 442,
    "app": "画像生成AI AIイラスト AIアート - TryArt",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 444,
+   "rank": 443,
    "app": "AI Logo Generator Logo Maker",
    "platform": "android",
    "change": 30,
    "date": "2026-11-11"
   },
   {
-   "rank": 445,
+   "rank": 444,
    "app": "Sweet AI - Chat Dreams",
    "platform": "android",
    "change": 26,
    "date": "2026-11-11"
   },
   {
-   "rank": 446,
+   "rank": 445,
    "app": "Hype AI - AI Photo & Video",
    "platform": "android",
    "change": -12,
    "date": "2026-11-11"
   },
   {
-   "rank": 447,
+   "rank": 446,
    "app": "AI Image to 3D Model Maker",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 448,
+   "rank": 447,
    "app": "AI Video Generator Photo Maker",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 449,
+   "rank": 448,
    "app": "AI Video Generator - Vidmor",
    "platform": "ios",
    "change": 69,
    "date": "2026-11-11"
   },
   {
-   "rank": 450,
+   "rank": 449,
    "app": "Designest: AI Home Design",
    "platform": "android",
    "change": -7,
    "date": "2026-11-11"
   },
   {
-   "rank": 451,
+   "rank": 450,
    "app": "VidFox: AI Photo Video Maker",
    "platform": "android",
    "change": -15,
    "date": "2026-11-11"
   },
   {
-   "rank": 452,
+   "rank": 451,
    "app": "Remodel AI - Home Design",
    "platform": "android",
-   "change": -5,
+   "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 453,
+   "rank": 452,
    "app": "RoomGPT ™ - AI Interior Design",
    "platform": "ios",
    "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 454,
+   "rank": 453,
    "app": "Offload AI",
    "platform": "ios",
    "change": 31,
    "date": "2026-11-11"
   },
   {
-   "rank": 455,
+   "rank": 454,
    "app": "Try Hairstyles-AI Change Color",
    "platform": "android",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 456,
+   "rank": 455,
    "app": "SynClub:AI Chat & Make Friends",
    "platform": "android",
    "change": 12,
    "date": "2026-11-11"
   },
   {
-   "rank": 457,
+   "rank": 456,
    "app": "MyTunes : AI Music Generator",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 458,
+   "rank": 457,
    "app": "WhatsPGT AI Turbo Chat",
    "platform": "android",
    "change": 58,
    "date": "2026-11-11"
   },
   {
-   "rank": 459,
+   "rank": 458,
    "app": "Pixelup - AI Photo Enhancer",
    "platform": "android",
    "change": 46,
    "date": "2026-11-11"
   },
   {
-   "rank": 460,
+   "rank": 459,
    "app": "Casanova AI: Rizz Assistant",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 461,
+   "rank": 460,
    "app": "Animator - AI photo dance",
    "platform": "android",
    "change": -90,
    "date": "2026-11-11"
   },
   {
-   "rank": 462,
+   "rank": 461,
    "app": "GolfFix AI Golf Swing Analyzer",
    "platform": "ios+android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 463,
+   "rank": 462,
    "app": "AI ChatBot Assistant - Cuda AI",
    "platform": "android",
    "change": -21,
    "date": "2026-11-11"
   },
   {
-   "rank": 464,
+   "rank": 463,
    "app": "Melting – AI Romance Chat",
    "platform": "android",
    "change": -32,
    "date": "2026-11-11"
   },
   {
-   "rank": 465,
+   "rank": 464,
    "app": "Nuvori: AI Video Generator",
    "platform": "android",
    "change": 12,
    "date": "2026-11-11"
   },
   {
-   "rank": 466,
+   "rank": 465,
    "app": "Genix Art: AI Art Generator",
    "platform": "android",
-   "change": 7,
+   "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 467,
+   "rank": 466,
    "app": "AI Photo Creator: Art Magic",
    "platform": "android",
    "change": -26,
    "date": "2026-11-11"
   },
   {
-   "rank": 468,
+   "rank": 467,
    "app": "YearCam: AI Video Generator",
    "platform": "android",
    "change": 20,
    "date": "2026-11-11"
   },
   {
+   "rank": 468,
+   "app": "Flashloop: AI Video Generator",
+   "platform": "ios+android",
+   "change": 43,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 469,
    "app": "カロミー：ダイエット・AIカロリー計算＆食事記録",
    "platform": "ios",
-   "change": 48,
+   "change": 47,
    "date": "2026-11-11"
   },
   {
    "rank": 470,
-   "app": "Flashloop: AI Video Generator",
-   "platform": "ios+android",
-   "change": 42,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 471,
    "app": "KI Musikvideo Generator: Yuna",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 472,
+   "rank": 471,
    "app": "Remove Objects:AI Photo Editor",
    "platform": "ios",
-   "change": -48,
+   "change": -50,
    "date": "2026-11-11"
   },
   {
-   "rank": 473,
+   "rank": 472,
    "app": "Playground: AI Design & Editor",
    "platform": "ios",
    "change": 20,
    "date": "2026-11-11"
   },
   {
-   "rank": 474,
+   "rank": 473,
    "app": "AI Maker: Photo Video Creator",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
+   "rank": 474,
+   "app": "TransGull - AI Live Translator",
+   "platform": "android",
+   "change": 1,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 475,
    "app": "Penny Stocks AI Screener Bot",
    "platform": "android",
-   "change": -16,
+   "change": -17,
    "date": "2026-11-11"
   },
   {
    "rank": 476,
-   "app": "TransGull - AI Live Translator",
-   "platform": "android",
-   "change": 0,
+   "app": "AI音楽生成器 & AI作曲 - Sonus",
+   "platform": "ios",
+   "change": 336,
    "date": "2026-11-11"
   },
   {
    "rank": 477,
-   "app": "AI音楽生成器 & AI作曲 - Sonus",
+   "app": "Luvlinx - AIキャラチャットで彼氏や恋人と会話",
    "platform": "ios",
-   "change": 335,
+   "change": -5,
    "date": "2026-11-11"
   },
   {
    "rank": 478,
-   "app": "Luvlinx - AIキャラチャットで彼氏や恋人と会話",
-   "platform": "ios",
-   "change": -6,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 479,
    "app": "Rosie-Fancy AI Chatbot",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 480,
+   "rank": 479,
    "app": "Nomi: AI Companion with a Soul",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 481,
+   "rank": 480,
    "app": "Jolie-AI Chat Story",
    "platform": "android",
    "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 482,
+   "rank": 481,
    "app": "AI Car Mods: Modify & Designer",
    "platform": "ios",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 483,
+   "rank": 482,
    "app": "VocalMe Music: AI Cover Songs",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 484,
+   "rank": 483,
    "app": "Cue: AI Note Taker & Recorder",
    "platform": "ios",
    "change": 12,
    "date": "2026-11-11"
   },
   {
-   "rank": 485,
+   "rank": 484,
    "app": "Bella-Anime AI Friend",
    "platform": "android",
    "change": -20,
    "date": "2026-11-11"
   },
   {
-   "rank": 486,
+   "rank": 485,
    "app": "Mis Pronósticos AI",
    "platform": "android",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 487,
+   "rank": 486,
    "app": "Wave AI Note Taker & Recorder",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 488,
+   "rank": 487,
    "app": "Character AI Photo Generator",
    "platform": "android",
    "change": -24,
    "date": "2026-11-11"
   },
   {
-   "rank": 489,
+   "rank": 488,
    "app": "AI Garden & Home: Nano Home",
    "platform": "android",
    "change": -8,
    "date": "2026-11-11"
   },
   {
-   "rank": 490,
+   "rank": 489,
    "app": "Mods: AI Car Designer & Tuning",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 491,
+   "rank": 490,
    "app": "Chat Me : Talk to Her AI",
    "platform": "android",
-   "change": 7,
+   "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 492,
+   "rank": 491,
    "app": "LoveMode: Pretty AI Girlfriend",
    "platform": "android",
    "change": 21,
    "date": "2026-11-11"
   },
   {
+   "rank": 492,
+   "app": "Lumina - Your AI Confidant",
+   "platform": "android",
+   "change": -3,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 493,
    "app": "AI Music Generator PRO X",
    "platform": "ios",
-   "change": 10,
+   "change": 9,
    "date": "2026-11-11"
   },
   {
    "rank": 494,
-   "app": "Lumina - Your AI Confidant",
-   "platform": "android",
-   "change": -4,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 495,
    "app": "Ruby-AI Mate Now",
    "platform": "android",
    "change": -46,
    "date": "2026-11-11"
   },
   {
-   "rank": 496,
+   "rank": 495,
    "app": "Notee: AI Note Taker",
    "platform": "ios",
    "change": 37,
    "date": "2026-11-11"
   },
   {
-   "rank": 497,
+   "rank": 496,
    "app": "RevReel: AI Car Edits",
    "platform": "ios",
    "change": 22,
    "date": "2026-11-11"
   },
   {
-   "rank": 498,
+   "rank": 497,
    "app": "Jam AI - AI Songs & Music",
    "platform": "ios",
    "change": 25,
    "date": "2026-11-11"
   },
   {
-   "rank": 499,
+   "rank": 498,
    "app": "Fravix - AI Photo Generator",
    "platform": "android",
    "change": 31,
    "date": "2026-11-11"
   },
   {
-   "rank": 500,
+   "rank": 499,
    "app": "Chatlulu: AI Video & Photo",
    "platform": "android",
-   "change": 11,
+   "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 501,
+   "rank": 500,
    "app": "Room Design AI: Home Decor",
    "platform": "android",
    "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 502,
+   "rank": 501,
    "app": "Boomio - AI Movie Templates",
    "platform": "android",
    "change": 376,
    "date": "2026-11-11"
   },
   {
-   "rank": 503,
+   "rank": 502,
    "app": "Cartoon AI Photo Art Creator",
    "platform": "android",
-   "change": -57,
+   "change": -56,
    "date": "2026-11-11"
   },
   {
-   "rank": 504,
+   "rank": 503,
    "app": "AI Background Remover - Eraser",
    "platform": "ios",
    "change": 65,
    "date": "2026-11-11"
   },
   {
-   "rank": 505,
+   "rank": 504,
    "app": "Miu Ai: Photo Video Generator",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 506,
+   "rank": 505,
    "app": "Artisol - AI Video Generator",
    "platform": "android",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 507,
+   "rank": 506,
    "app": "Ask Me Anything - AI Chatbot",
    "platform": "android",
    "change": -37,
    "date": "2026-11-11"
   },
   {
-   "rank": 508,
+   "rank": 507,
    "app": "Magnific - AI Video & Image",
    "platform": "ios",
    "change": 35,
    "date": "2026-11-11"
   },
   {
-   "rank": 509,
+   "rank": 508,
    "app": "AI Photo Video Maker",
    "platform": "android",
-   "change": 0,
+   "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 510,
+   "rank": 509,
    "app": "Home Interior Decor: AI Design",
    "platform": "ios+android",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 511,
+   "rank": 510,
    "app": "Brainly: AI Homework Helper",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 512,
+   "rank": 511,
    "app": "AI Video Generator - LUHM",
    "platform": "ios",
    "change": 22,
    "date": "2026-11-11"
   },
   {
-   "rank": 513,
+   "rank": 512,
    "app": "Rithmm: AI Sports Predictions",
    "platform": "ios+android",
    "change": 22,
    "date": "2026-11-11"
   },
   {
+   "rank": 513,
+   "app": "Susan - AI Anime Chat",
+   "platform": "android",
+   "change": 14,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 514,
    "app": "Openart AI Art & Image Maker",
    "platform": "ios",
-   "change": 10,
+   "change": 9,
    "date": "2026-11-11"
   },
   {
    "rank": 515,
-   "app": "Susan - AI Anime Chat",
-   "platform": "android",
-   "change": 13,
+   "app": "メローズ AI彼女・AI彼氏とAIキャラチャット・画像生成",
+   "platform": "ios",
+   "change": 11,
    "date": "2026-11-11"
   },
   {
    "rank": 516,
-   "app": "Moment AI: Easy AI Video Maker",
+   "app": "Trend AI - Happy Chat Anytime",
    "platform": "android",
-   "change": 32,
+   "change": -51,
    "date": "2026-11-11"
   },
   {
    "rank": 517,
-   "app": "メローズ AI彼女・AI彼氏とAIキャラチャット・画像生成",
+   "app": "Pixlure - Arte com IA",
    "platform": "ios",
-   "change": 10,
+   "change": -12,
    "date": "2026-11-11"
   },
   {
    "rank": 518,
-   "app": "Trend AI - Happy Chat Anytime",
+   "app": "Moment AI: Easy AI Video Maker",
    "platform": "android",
-   "change": -52,
+   "change": 29,
    "date": "2026-11-11"
   },
   {
    "rank": 519,
-   "app": "Pixlure - Arte com IA",
-   "platform": "ios",
-   "change": -13,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 520,
    "app": "Arch - AI Home Design",
    "platform": "ios+android",
    "change": -25,
    "date": "2026-11-11"
   },
   {
-   "rank": 521,
+   "rank": 520,
    "app": "Easy Prompt - Ai Video Prompt",
    "platform": "android",
-   "change": 19,
+   "change": 18,
    "date": "2026-11-11"
   },
   {
-   "rank": 522,
+   "rank": 521,
    "app": "SingUp: AI Music Generator",
    "platform": "android",
    "change": -35,
    "date": "2026-11-11"
   },
   {
-   "rank": 523,
+   "rank": 522,
    "app": "Cute AI - Immersive Chat",
    "platform": "android",
    "change": 33,
    "date": "2026-11-11"
   },
   {
-   "rank": 524,
+   "rank": 523,
    "app": "AI Translator:Voice&Text&Photo",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 525,
+   "rank": 524,
    "app": "Poster maker AI : Banner Maker",
    "platform": "android",
    "change": 39,
    "date": "2026-11-11"
   },
   {
-   "rank": 526,
+   "rank": 525,
    "app": "Translate your Voice - Talk AI",
    "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 527,
+   "rank": 526,
    "app": "Narrator's Voice - TTS",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 528,
+   "rank": 527,
    "app": "Vikk - AI Lawyer & Legal Help",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 529,
+   "rank": 528,
    "app": "ラビダビ - AIキャラとロールプレイチャット",
    "platform": "ios",
    "change": 75,
    "date": "2026-11-11"
   },
   {
-   "rank": 530,
+   "rank": 529,
    "app": "Landscape Design - AI Garden",
    "platform": "android",
    "change": -23,
    "date": "2026-11-11"
   },
   {
-   "rank": 531,
+   "rank": 530,
    "app": "ETM: AI Image Generator",
    "platform": "android",
    "change": -34,
    "date": "2026-11-11"
   },
   {
-   "rank": 532,
+   "rank": 531,
    "app": "Ideogram AI - Image Generator",
    "platform": "ios",
    "change": -1,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 532,
+   "app": "Roomly - AI Interior Design",
+   "platform": "ios",
+   "change": 19,
    "date": "2026-11-11"
   },
   {
@@ -3755,232 +3755,232 @@
   },
   {
    "rank": 534,
-   "app": "Roomly - AI Interior Design",
-   "platform": "ios",
-   "change": 18,
+   "app": "Nano Banana AI: Pro Banana Ai",
+   "platform": "android",
+   "change": 5,
    "date": "2026-11-11"
   },
   {
    "rank": 535,
-   "app": "Nano Banana AI: Pro Banana Ai",
-   "platform": "android",
-   "change": 4,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 536,
    "app": "PerfectSkin - AI Skin Coach",
    "platform": "ios",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 537,
+   "rank": 536,
    "app": "OpusClip - AI Video Clipping",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 538,
+   "rank": 537,
    "app": "Krea: AI Images and Videos",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 539,
+   "rank": 538,
    "app": "AI Chatbot: Pixi",
    "platform": "ios",
    "change": 200,
    "date": "2026-11-11"
   },
   {
-   "rank": 540,
+   "rank": 539,
    "app": "AI Logo Maker, AI Design: Hexa",
    "platform": "android",
    "change": -54,
    "date": "2026-11-11"
   },
   {
-   "rank": 541,
+   "rank": 540,
    "app": "Stem Split AI - Vocal Remover",
    "platform": "ios",
-   "change": 34,
+   "change": 33,
    "date": "2026-11-11"
   },
   {
-   "rank": 542,
+   "rank": 541,
    "app": "AI Photo Generator－Enhance Pic",
    "platform": "android",
    "change": -20,
    "date": "2026-11-11"
   },
   {
-   "rank": 543,
+   "rank": 542,
    "app": "Faceplay: AI Video Photo Maker",
    "platform": "android",
    "change": -29,
    "date": "2026-11-11"
   },
   {
-   "rank": 544,
+   "rank": 543,
    "app": "Dalli-4: AI Image Generator",
    "platform": "android",
    "change": -3,
    "date": "2026-11-11"
   },
   {
-   "rank": 545,
+   "rank": 544,
    "app": "Age Changer - Future Face AI",
    "platform": "android",
    "change": -7,
    "date": "2026-11-11"
   },
   {
-   "rank": 546,
+   "rank": 545,
    "app": "Joko | Shopping IA & cashback",
    "platform": "ios",
-   "change": 7,
+   "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 547,
+   "rank": 546,
    "app": "AI Video Generator & Maker",
    "platform": "android",
    "change": -96,
    "date": "2026-11-11"
   },
   {
-   "rank": 548,
+   "rank": 547,
    "app": "dotdotdot: AI Romance, Stories",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 549,
+   "rank": 548,
    "app": "Tattooist: AI Tattoo Generator",
    "platform": "android",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 550,
+   "rank": 549,
    "app": "DaVinci - AI Image Generator",
    "platform": "ios+android",
    "change": -258,
    "date": "2026-11-11"
   },
   {
-   "rank": 551,
+   "rank": 550,
    "app": "Logo Maker - AI Art Design",
    "platform": "ios",
    "change": -5,
    "date": "2026-11-11"
   },
   {
-   "rank": 552,
+   "rank": 551,
    "app": "Anime Filter - Photo to Anime",
    "platform": "android",
    "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 553,
+   "rank": 552,
    "app": "ScoreGPT AI Football Predictor",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 554,
+   "rank": 553,
    "app": "starryai - AI Art Generator",
    "platform": "ios+android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 555,
+   "rank": 554,
    "app": "Midas: AI Car Modification",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 556,
+   "rank": 555,
    "app": "AI Video Generator - OpenVideo",
    "platform": "ios",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 557,
+   "rank": 556,
    "app": "Honey & Roleplay AI Chatbot",
    "platform": "android",
    "change": -31,
    "date": "2026-11-11"
   },
   {
-   "rank": 558,
+   "rank": 557,
    "app": "AI Video Generator - Vixel",
    "platform": "ios",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 559,
+   "rank": 558,
    "app": "Nimvra: AI Art Creator",
    "platform": "android",
    "change": 21,
    "date": "2026-11-11"
   },
   {
-   "rank": 560,
+   "rank": 559,
    "app": "Mody : AI Car Modifications",
    "platform": "ios",
    "change": -5,
    "date": "2026-11-11"
   },
   {
-   "rank": 561,
+   "rank": 560,
    "app": "GoGlow",
    "platform": "android",
    "change": 26,
    "date": "2026-11-11"
   },
   {
-   "rank": 562,
+   "rank": 561,
    "app": "Mojify: AI Emoji Maker",
    "platform": "android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 563,
+   "rank": 562,
    "app": "MagicLook AI",
    "platform": "ios",
    "change": 45,
    "date": "2026-11-11"
   },
   {
-   "rank": 564,
+   "rank": 563,
    "app": "Whoosh AI: AI Video Maker",
    "platform": "android",
    "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 565,
+   "rank": 564,
    "app": "Wonder - AI Art Generator",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 566,
+   "rank": 565,
    "app": "Drma: AI Short Drama Maker",
    "platform": "android",
+   "change": 6,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 566,
+   "app": "MoboDrama - AI Comic Dramas",
+   "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
@@ -3993,238 +3993,238 @@
   },
   {
    "rank": 568,
-   "app": "MoboDrama - AI Comic Dramas",
-   "platform": "ios",
-   "change": 5,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 569,
    "app": "FreeMilk: AI Code IDE & Agents",
    "platform": "ios",
    "change": -3,
    "date": "2026-11-11"
   },
   {
-   "rank": 570,
+   "rank": 569,
    "app": "niji・journey - AI Anime Art",
    "platform": "android",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 571,
+   "rank": 570,
    "app": "Toonly: AI Story & Comic Maker",
    "platform": "android",
    "change": 19,
    "date": "2026-11-11"
   },
   {
-   "rank": 572,
+   "rank": 571,
    "app": "Vimo AI: Photo to Video",
    "platform": "android",
    "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 573,
+   "rank": 572,
    "app": "AIApply: AI Job Search & Apply",
    "platform": "ios",
    "change": 21,
    "date": "2026-11-11"
   },
   {
-   "rank": 574,
+   "rank": 573,
    "app": "KI-Tätowierungsdesign: ArtReel",
    "platform": "ios",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 575,
+   "rank": 574,
    "app": "Hangjam: AI Chat and Roleplay",
    "platform": "android",
    "change": -5,
    "date": "2026-11-11"
   },
   {
-   "rank": 576,
+   "rank": 575,
    "app": "DreamShot - AI Image & Video",
    "platform": "android",
    "change": -14,
    "date": "2026-11-11"
   },
   {
-   "rank": 577,
+   "rank": 576,
    "app": "AI Couple : Video Generator",
    "platform": "android",
    "change": 311,
    "date": "2026-11-11"
   },
   {
-   "rank": 578,
+   "rank": 577,
    "app": "InFlux - AI Video Generator",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 579,
+   "rank": 578,
    "app": "Melia-Soulmate AI Friend",
    "platform": "android",
    "change": -12,
    "date": "2026-11-11"
   },
   {
-   "rank": 580,
+   "rank": 579,
    "app": "Bloomi: AI Friend with a Life",
    "platform": "android",
    "change": 21,
    "date": "2026-11-11"
   },
   {
-   "rank": 581,
+   "rank": 580,
    "app": "HairHunt: AI Hairstyle Try-On",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 582,
+   "rank": 581,
    "app": "Face Swap - Photo Editor AI",
    "platform": "android",
    "change": -5,
    "date": "2026-11-11"
   },
   {
-   "rank": 583,
+   "rank": 582,
    "app": "Face Swap Video - Faceswapp AI",
    "platform": "android",
    "change": -25,
    "date": "2026-11-11"
   },
   {
-   "rank": 584,
+   "rank": 583,
    "app": "LUNA | 月に住む英会話パートナー",
    "platform": "ios",
    "change": -3,
    "date": "2026-11-11"
   },
   {
-   "rank": 585,
+   "rank": 584,
    "app": "Tattoo AI - Tattoo Designs App",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 586,
+   "rank": 585,
    "app": "Posely: AI Car Photo & Video",
    "platform": "android",
    "change": -41,
    "date": "2026-11-11"
   },
   {
-   "rank": 587,
+   "rank": 586,
    "app": "DeepLove AI：Dream AI Love Chat",
    "platform": "android",
    "change": -11,
    "date": "2026-11-11"
   },
   {
-   "rank": 588,
+   "rank": 587,
    "app": "FlyAds - AI Video Ads Maker",
    "platform": "ios",
-   "change": 10,
+   "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 589,
+   "rank": 588,
    "app": "Garden AI - Landscape Design",
    "platform": "android",
    "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 590,
+   "rank": 589,
    "app": "SongAI - AI Music Generator",
    "platform": "android",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 591,
+   "rank": 590,
    "app": "Flux AI: Video Photo Generator",
    "platform": "ios",
    "change": 31,
    "date": "2026-11-11"
   },
   {
-   "rank": 592,
+   "rank": 591,
    "app": "VibeMe AI: Playable Studio",
    "platform": "android",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 593,
+   "rank": 592,
    "app": "Anime AI - Photo Creator",
    "platform": "android",
    "change": 70,
    "date": "2026-11-11"
   },
   {
-   "rank": 594,
+   "rank": 593,
    "app": "TattooInk: AI Tattoo Generator",
    "platform": "android",
-   "change": 15,
+   "change": 16,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 594,
+   "app": "PPT AI: Presentation Maker App",
+   "platform": "ios",
+   "change": 41,
    "date": "2026-11-11"
   },
   {
    "rank": 595,
-   "app": "PPT AI: Presentation Maker App",
-   "platform": "ios",
-   "change": 40,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 596,
    "app": "Remodel AI - Home Room Design",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 597,
+   "rank": 596,
    "app": "Recraft: Imagens e vídeos IA",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 598,
+   "rank": 597,
    "app": "Tattoo Style AI - Design App",
    "platform": "ios",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 599,
+   "rank": 598,
    "app": "Visionary: AI Maker",
    "platform": "android",
    "change": 29,
    "date": "2026-11-11"
   },
   {
-   "rank": 600,
+   "rank": 599,
    "app": "AI Video Generator - Pixaflow",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 601,
+   "rank": 600,
    "app": "ManPick: My Perfect AI",
+   "platform": "android",
+   "change": 17,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 601,
+   "app": "DeepZik | AI music generator",
    "platform": "android",
    "change": 17,
    "date": "2026-11-11"
@@ -4233,672 +4233,672 @@
    "rank": 602,
    "app": "Fulltrack AI",
    "platform": "android",
-   "change": 12,
+   "change": 11,
    "date": "2026-11-11"
   },
   {
    "rank": 603,
-   "app": "DeepZik | AI music generator",
+   "app": "People Finder AI Deep Search",
    "platform": "android",
-   "change": 16,
+   "change": 21,
    "date": "2026-11-11"
   },
   {
    "rank": 604,
    "app": "Magic AI Photo Video Generator",
    "platform": "android",
-   "change": -26,
+   "change": -27,
    "date": "2026-11-11"
   },
   {
    "rank": 605,
-   "app": "People Finder AI Deep Search",
-   "platform": "android",
-   "change": 20,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 606,
    "app": "House AI: AI Room Design, Home",
    "platform": "ios",
    "change": 33,
    "date": "2026-11-11"
   },
   {
-   "rank": 607,
+   "rank": 606,
    "app": "Interium - AI Home Design",
    "platform": "ios",
-   "change": -10,
+   "change": -9,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 607,
+   "app": "AI Voice changer Music Pro",
+   "platform": "android",
+   "change": 1,
    "date": "2026-11-11"
   },
   {
    "rank": 608,
-   "app": "AI Voice changer Music Pro",
-   "platform": "android",
-   "change": 2,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 609,
    "app": "Dawn AI - Avatar generator",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 610,
+   "rank": 609,
    "app": "Songria — AI Song Generator",
    "platform": "android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 611,
+   "rank": 610,
    "app": "SeeGen AI: Seedance 2.0 & 2.5",
    "platform": "android",
    "change": -11,
    "date": "2026-11-11"
   },
   {
-   "rank": 612,
+   "rank": 611,
    "app": "Driftshot - AI Car Photography",
    "platform": "ios",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 613,
+   "rank": 612,
    "app": "AI Marvels - AI Photo & Video",
    "platform": "android",
    "change": -151,
    "date": "2026-11-11"
   },
   {
-   "rank": 614,
+   "rank": 613,
    "app": "ウィフ - 思い通りのAIチャット（恋愛・BL）",
    "platform": "ios",
    "change": -21,
    "date": "2026-11-11"
   },
   {
-   "rank": 615,
+   "rank": 614,
    "app": "FaceAlly: AI Baby & Age Editor",
    "platform": "ios",
-   "change": 51,
+   "change": 50,
    "date": "2026-11-11"
   },
   {
-   "rank": 616,
+   "rank": 615,
    "app": "Friday: AI E-mail Assistant",
    "platform": "android",
    "change": -25,
    "date": "2026-11-11"
   },
   {
-   "rank": 617,
+   "rank": 616,
    "app": "ViralPet: AI Pet Video Maker",
    "platform": "android",
    "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 618,
+   "rank": 617,
    "app": "MECH AI: OBD2 Car Diagnostics",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 619,
+   "rank": 618,
    "app": "IA Videos: AI Video Generator",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 620,
+   "rank": 619,
    "app": "OneSearch: DeepSearch Finder",
    "platform": "android",
    "change": -24,
    "date": "2026-11-11"
   },
   {
-   "rank": 621,
+   "rank": 620,
    "app": "Sienna-Find Your AI Soulmate",
    "platform": "android",
    "change": -4,
    "date": "2026-11-11"
   },
   {
-   "rank": 622,
+   "rank": 621,
    "app": "AI Photos & Video Maker App",
    "platform": "android",
    "change": 56,
    "date": "2026-11-11"
   },
   {
-   "rank": 623,
+   "rank": 622,
    "app": "Caveduck - AI Character Chat",
    "platform": "android",
    "change": 23,
    "date": "2026-11-11"
   },
   {
-   "rank": 624,
+   "rank": 623,
    "app": "Rosebud: AI Journal & Diary",
    "platform": "android",
    "change": 24,
    "date": "2026-11-11"
   },
   {
-   "rank": 625,
+   "rank": 624,
    "app": "Future Baby Generator - GenArt",
    "platform": "android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 626,
+   "rank": 625,
    "app": "Sintra: AI Employees",
    "platform": "android",
    "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 627,
+   "rank": 626,
    "app": "AI Video Generator: Video AI",
    "platform": "ios",
    "change": 27,
    "date": "2026-11-11"
   },
   {
-   "rank": 628,
+   "rank": 627,
    "app": "Stocks to Buy Now AI Signals",
    "platform": "ios",
    "change": -26,
    "date": "2026-11-11"
   },
   {
-   "rank": 629,
+   "rank": 628,
    "app": "スタンプAI - ペットや子どもの写真1枚からスタンプ作成",
    "platform": "ios",
    "change": 29,
    "date": "2026-11-11"
   },
   {
-   "rank": 630,
+   "rank": 629,
    "app": "AI Tattoo：Tattoo Design Maker",
    "platform": "ios",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 631,
+   "rank": 630,
    "app": "Ayana AI: Feel Every Chat",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 632,
+   "rank": 631,
    "app": "FaceMagic: AI Videos & Photos",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 633,
+   "rank": 632,
    "app": "My Bunny: AI Anime Mate",
    "platform": "android",
    "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 634,
+   "rank": 633,
    "app": "Lumy－AI Photo Video Generator",
    "platform": "android",
-   "change": -339,
+   "change": -338,
    "date": "2026-11-11"
   },
   {
-   "rank": 635,
+   "rank": 634,
    "app": "ToonApp AI+ Viral Photo Maker",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 636,
+   "rank": 635,
    "app": "MediSearch AI",
    "platform": "ios",
    "change": -21,
    "date": "2026-11-11"
   },
   {
-   "rank": 637,
+   "rank": 636,
    "app": "Cost AI: Construction Estimate",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 638,
+   "rank": 637,
    "app": "AI Clothes Changer - Adiz Ai",
    "platform": "android",
-   "change": 13,
+   "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 639,
+   "rank": 638,
    "app": "TipsPro AI: Match Prediction",
    "platform": "android",
    "change": -19,
    "date": "2026-11-11"
   },
   {
-   "rank": 640,
+   "rank": 639,
    "app": "AI Seduce",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 641,
+   "rank": 640,
    "app": "Car AI: Modify, Tune & Design",
    "platform": "ios",
-   "change": 16,
+   "change": 15,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 641,
+   "app": "Meshy AI 3D Generator",
+   "platform": "ios",
+   "change": 9,
    "date": "2026-11-11"
   },
   {
    "rank": 642,
-   "app": "Meshy AI 3D Generator",
+   "app": "Code AI - Chatbot IA português",
    "platform": "ios",
-   "change": 10,
+   "change": 53,
    "date": "2026-11-11"
   },
   {
    "rank": 643,
-   "app": "Code AI - Chatbot IA português",
-   "platform": "ios",
-   "change": 55,
+   "app": "ReelMe AI: Art Video Generator",
+   "platform": "android",
+   "change": -4,
    "date": "2026-11-11"
   },
   {
    "rank": 644,
-   "app": "ReelMe AI: Art Video Generator",
-   "platform": "android",
-   "change": -3,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 645,
    "app": "Fytiva: AI Video Generator",
    "platform": "android",
    "change": -2,
    "date": "2026-11-11"
   },
   {
-   "rank": 646,
+   "rank": 645,
    "app": "Rebrand - AI Logo Maker",
    "platform": "ios",
-   "change": 51,
+   "change": 53,
    "date": "2026-11-11"
   },
   {
-   "rank": 647,
+   "rank": 646,
    "app": "My Translator - AI Translate",
    "platform": "ios",
    "change": 34,
    "date": "2026-11-11"
   },
   {
-   "rank": 648,
+   "rank": 647,
    "app": "Create AI - Video Generator",
    "platform": "ios",
-   "change": -18,
+   "change": -17,
    "date": "2026-11-11"
   },
   {
-   "rank": 649,
+   "rank": 648,
    "app": "Cut.Pro: Cortes e Vídeo com IA",
    "platform": "ios",
    "change": 227,
    "date": "2026-11-11"
   },
   {
-   "rank": 650,
+   "rank": 649,
    "app": "Stipop: AI Chat·Virtual Dating",
    "platform": "android",
-   "change": -10,
+   "change": -9,
    "date": "2026-11-11"
   },
   {
-   "rank": 651,
-   "app": "Daleel AI : Coran & Hadith",
-   "platform": "ios",
-   "change": -2,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 652,
+   "rank": 650,
    "app": "Home Design- Ai Room Planner",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 653,
+   "rank": 651,
+   "app": "Daleel AI : Coran & Hadith",
+   "platform": "ios",
+   "change": -3,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 652,
    "app": "Dr.Oracle AI Medical Assistant",
    "platform": "ios+android",
    "change": -3,
    "date": "2026-11-11"
   },
   {
-   "rank": 654,
+   "rank": 653,
    "app": "Chatbot AI 日本語: AIチャット",
    "platform": "ios",
    "change": -21,
    "date": "2026-11-11"
   },
   {
-   "rank": 655,
+   "rank": 654,
    "app": "ビデオ消しゴム・動画消す: AI Object Eraser",
    "platform": "ios",
    "change": -23,
    "date": "2026-11-11"
   },
   {
-   "rank": 656,
+   "rank": 655,
    "app": "MyEdit: AI Image Generator",
    "platform": "android",
-   "change": 0,
+   "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 657,
+   "rank": 656,
    "app": "BetGPT - Palpites Futebol IA",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 658,
+   "rank": 657,
    "app": "ThriftLens: AI Thrift Profit",
    "platform": "ios",
    "change": 21,
    "date": "2026-11-11"
   },
   {
-   "rank": 659,
+   "rank": 658,
    "app": "DSeek - Your AI Assistant",
    "platform": "ios+android",
    "change": -17,
    "date": "2026-11-11"
   },
   {
-   "rank": 660,
+   "rank": 659,
    "app": "Dolly - Your AI Doll Girl Chat",
    "platform": "android",
    "change": 0,
    "date": "2026-11-11"
   },
   {
-   "rank": 661,
+   "rank": 660,
    "app": "AI Tattoo Generator・Tattooist",
    "platform": "ios",
-   "change": 0,
+   "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 662,
+   "rank": 661,
    "app": "AI Room Planner: Home Design",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 663,
+   "rank": 662,
    "app": "AI Canvas - Gerador de arte",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 664,
+   "rank": 663,
    "app": "AI Art Generator & Logo - Hexa",
    "platform": "ios",
-   "change": 1,
+   "change": 0,
    "date": "2026-11-11"
   },
   {
-   "rank": 665,
+   "rank": 664,
    "app": "Gerador de Imagem IA Farba",
    "platform": "ios",
    "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 666,
+   "rank": 665,
    "app": "AI Photo Editor: Art Studio",
    "platform": "android",
-   "change": -2,
+   "change": 0,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 666,
+   "app": "Lens AI: Identify Anything",
+   "platform": "ios",
+   "change": -32,
    "date": "2026-11-11"
   },
   {
    "rank": 667,
-   "app": "Lens AI: Identify Anything",
-   "platform": "ios",
-   "change": -31,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 668,
    "app": "汽水音乐: AI Music Generator",
    "platform": "ios",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 669,
+   "rank": 668,
    "app": "AI Garden Design: Landscape AI",
    "platform": "ios",
    "change": 49,
    "date": "2026-11-11"
   },
   {
-   "rank": 670,
+   "rank": 669,
    "app": "Foto IA - Gerador de Imagem AI",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 671,
+   "rank": 670,
    "app": "AI Music: Cover & Song Maker",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 672,
+   "rank": 671,
    "app": "Songdio - AI音楽生成・作曲・カバー・AI MV",
    "platform": "ios",
    "change": 13,
    "date": "2026-11-11"
   },
   {
-   "rank": 673,
+   "rank": 672,
    "app": "Interview Pilot: AI Copilot",
    "platform": "ios",
    "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 674,
+   "rank": 673,
    "app": "PokeVid: AI Video Generator",
    "platform": "android",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 675,
+   "rank": 674,
    "app": "Stencil AI - Tattoo Stencils",
    "platform": "ios",
    "change": -4,
    "date": "2026-11-11"
   },
   {
-   "rank": 676,
+   "rank": 675,
    "app": "Sogni: AI Image, Video & Music",
    "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 677,
+   "rank": 676,
    "app": "にじジャーニー - AI アニメアート",
    "platform": "ios",
    "change": -18,
    "date": "2026-11-11"
   },
   {
-   "rank": 678,
+   "rank": 677,
    "app": "HairLook: AI Hairstyle Try On",
    "platform": "android",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 679,
+   "rank": 678,
    "app": "AI Hair Try On & Color Changer",
    "platform": "android",
-   "change": 17,
+   "change": 19,
    "date": "2026-11-11"
   },
   {
-   "rank": 680,
+   "rank": 679,
    "app": "Minutes: AI Meeting Note Taker",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 681,
+   "rank": 680,
    "app": "AI illustration plus",
    "platform": "android",
    "change": 33,
    "date": "2026-11-11"
   },
   {
-   "rank": 682,
+   "rank": 681,
    "app": "Fieldy - AI note taker",
    "platform": "android",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 683,
+   "rank": 682,
    "app": "Manga AI - AI Comic Generator",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 684,
+   "rank": 683,
    "app": "AI Art & Image Generator: Gala",
    "platform": "ios",
    "change": 19,
    "date": "2026-11-11"
   },
   {
-   "rank": 685,
+   "rank": 684,
    "app": "Renovate AI : House Design",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 686,
+   "rank": 685,
    "app": "Remeshy: Impressão 3D IA",
    "platform": "ios",
    "change": 44,
    "date": "2026-11-11"
   },
   {
-   "rank": 687,
+   "rank": 686,
    "app": "AI Video Generator-HiCut",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 688,
+   "rank": 687,
    "app": "AI Wicked",
    "platform": "android",
    "change": 0,
    "date": "2026-11-11"
   },
   {
-   "rank": 689,
+   "rank": 688,
    "app": "Pika - AI Video",
    "platform": "ios",
    "change": -77,
    "date": "2026-11-11"
   },
   {
-   "rank": 690,
+   "rank": 689,
    "app": "VidGlow: AI Photo to Video",
    "platform": "android",
    "change": -10,
    "date": "2026-11-11"
   },
   {
-   "rank": 691,
+   "rank": 690,
    "app": "Beatz: KI Lied Music Generator",
    "platform": "ios",
    "change": 49,
    "date": "2026-11-11"
   },
   {
-   "rank": 692,
+   "rank": 691,
    "app": "Comics AI: Comic & Manga Maker",
    "platform": "android",
    "change": 17,
    "date": "2026-11-11"
   },
   {
-   "rank": 693,
+   "rank": 692,
    "app": "AIイラスト - UniDream 無制限でAI絵描きアプリ",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 694,
+   "rank": 693,
    "app": "Sticky - AI Game Maker",
    "platform": "ios",
    "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 695,
+   "rank": 694,
    "app": "HomeMagic: AI Interior Design",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
+   "rank": 695,
+   "app": "Bestie AI（ベスティー）: 話して、癒やして、愛して",
+   "platform": "ios",
+   "change": 144,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 696,
    "app": "Renovate AI - Home Remodel App",
    "platform": "ios",
-   "change": -112,
+   "change": -113,
    "date": "2026-11-11"
   },
   {
    "rank": 697,
-   "app": "Bestie AI（ベスティー）: 話して、癒やして、愛して",
+   "app": "Artimind - AI Video Generator",
    "platform": "ios",
-   "change": 143,
+   "change": 12,
    "date": "2026-11-11"
   },
   {
@@ -4912,280 +4912,280 @@
    "rank": 699,
    "app": "AI画像生成&AI動画生成&高画質化-PixDream",
    "platform": "ios",
-   "change": 7,
+   "change": 6,
    "date": "2026-11-11"
   },
   {
    "rank": 700,
-   "app": "Artimind - AI Video Generator",
-   "platform": "ios",
-   "change": 11,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 701,
    "app": "Commure - AI Medical Scribe",
    "platform": "ios",
    "change": -6,
    "date": "2026-11-11"
   },
   {
-   "rank": 702,
-   "app": "Interior AI - Home Design",
-   "platform": "ios",
-   "change": 11,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 703,
+   "rank": 701,
    "app": "Nsketch: Viral Video Generator",
    "platform": "ios",
    "change": 23,
    "date": "2026-11-11"
   },
   {
-   "rank": 704,
+   "rank": 702,
+   "app": "Interior AI - Home Design",
+   "platform": "ios",
+   "change": 10,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 703,
    "app": "AI Home Design: Decor Interior",
    "platform": "ios",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 705,
+   "rank": 704,
    "app": "Wann-AI Video&Image Generator",
    "platform": "android",
    "change": -3,
    "date": "2026-11-11"
   },
   {
-   "rank": 706,
+   "rank": 705,
    "app": "Ai Tattoo Ideas-Art Generator",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 707,
+   "rank": 706,
    "app": "Character.Me: AI Chat & Story",
    "platform": "android",
    "change": 12,
    "date": "2026-11-11"
   },
   {
-   "rank": 708,
+   "rank": 707,
    "app": "AI Video Generator & AI Editor",
    "platform": "ios",
    "change": 13,
    "date": "2026-11-11"
   },
   {
-   "rank": 709,
+   "rank": 708,
    "app": "一撃くん - ボートレース穴予想特化AI by マクール",
    "platform": "ios",
    "change": 26,
    "date": "2026-11-11"
   },
   {
-   "rank": 710,
+   "rank": 709,
    "app": "Barebone - AI Stock Research",
    "platform": "ios",
    "change": -24,
    "date": "2026-11-11"
   },
   {
-   "rank": 711,
+   "rank": 710,
    "app": "Movify: AI Video Generator",
    "platform": "android",
    "change": 17,
    "date": "2026-11-11"
   },
   {
-   "rank": 712,
+   "rank": 711,
    "app": "Photora - AI Family Maker",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 713,
+   "rank": 712,
    "app": "Dreamerland - AI Art & Video",
    "platform": "ios",
-   "change": 38,
+   "change": 37,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 713,
+   "app": "AI Image Generator",
+   "platform": "android",
+   "change": -3,
    "date": "2026-11-11"
   },
   {
    "rank": 714,
-   "app": "AI Image Generator",
-   "platform": "android",
-   "change": -4,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 715,
    "app": "PixelHeart - AI Girlfriend",
    "platform": "android",
    "change": 16,
    "date": "2026-11-11"
   },
   {
-   "rank": 716,
+   "rank": 715,
    "app": "Couple AI - AI Photo Generator",
    "platform": "android",
    "change": 0,
    "date": "2026-11-11"
   },
   {
-   "rank": 717,
+   "rank": 716,
    "app": "LINNÉ LENS - かざすAI図鑑",
    "platform": "ios",
    "change": -17,
    "date": "2026-11-11"
   },
   {
-   "rank": 718,
+   "rank": 717,
    "app": "Veeo: Fast AI Video",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 719,
+   "rank": 718,
    "app": "Clara - AI Receptionist",
    "platform": "android",
-   "change": 6,
+   "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 720,
+   "rank": 719,
    "app": "動画生成AI - TryVideo",
    "platform": "ios",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 721,
+   "rank": 720,
    "app": "Mobile IDE for Antigravity AI",
    "platform": "ios",
-   "change": 22,
+   "change": 21,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 721,
+   "app": "MistyPix: AI Image Generator",
+   "platform": "android",
+   "change": -308,
    "date": "2026-11-11"
   },
   {
    "rank": 722,
-   "app": "MistyPix: AI Image Generator",
-   "platform": "android",
-   "change": -309,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 723,
    "app": "PropGPT: AI Props Analysis",
    "platform": "android",
    "change": -29,
    "date": "2026-11-11"
   },
   {
-   "rank": 724,
+   "rank": 723,
    "app": "Pastory: Restore Old Photos",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 725,
+   "rank": 724,
    "app": "Translate AI: Voice & Photo",
    "platform": "ios",
    "change": 162,
    "date": "2026-11-11"
   },
   {
-   "rank": 726,
+   "rank": 725,
    "app": "Solo - AI Marketing Team",
    "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 727,
+   "rank": 726,
    "app": "PixClip: AI Video&Image Maker",
    "platform": "android",
    "change": 18,
    "date": "2026-11-11"
   },
   {
-   "rank": 728,
+   "rank": 727,
    "app": "Voxy : Your AI Friend",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 729,
+   "rank": 728,
    "app": "AI for Kids・Askie",
    "platform": "android",
-   "change": 20,
+   "change": 19,
    "date": "2026-11-11"
   },
   {
-   "rank": 730,
+   "rank": 729,
    "app": "Guma-AI Image&Video Maker",
    "platform": "ios",
    "change": -13,
    "date": "2026-11-11"
   },
   {
-   "rank": 731,
+   "rank": 730,
    "app": "Stocks to Buy Now AI Signals",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 732,
+   "rank": 731,
    "app": "Fantasy AI: RP & Companions",
    "platform": "android",
    "change": -59,
    "date": "2026-11-11"
   },
   {
-   "rank": 733,
+   "rank": 732,
    "app": "Music AI - MV Video Generator",
    "platform": "ios",
    "change": 35,
    "date": "2026-11-11"
   },
   {
-   "rank": 734,
+   "rank": 733,
    "app": "RoleCard.AI: AI Chat Companion",
    "platform": "android",
    "change": 36,
    "date": "2026-11-11"
   },
   {
-   "rank": 735,
+   "rank": 734,
    "app": "PicWish: AI写真加工&画像編集",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 736,
+   "rank": 735,
    "app": "Wapply : Emploi & CV par IA",
    "platform": "ios",
    "change": 26,
    "date": "2026-11-11"
   },
   {
-   "rank": 737,
+   "rank": 736,
    "app": "mimel :AIチャットで推しとの恋愛・夢小説を現実に",
    "platform": "ios",
    "change": 22,
    "date": "2026-11-11"
   },
   {
-   "rank": 738,
+   "rank": 737,
    "app": "MadeYu 寐慾 - AI画像 & 動画生成",
    "platform": "ios",
    "change": 9,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 738,
+   "app": "Pixvi: AI Video & Image",
+   "platform": "android",
+   "change": -1,
    "date": "2026-11-11"
   },
   {
@@ -5197,16 +5197,16 @@
   },
   {
    "rank": 740,
-   "app": "Pixvi: AI Video & Image",
+   "app": "Man Ai Hairstyle Photo Editor",
    "platform": "android",
-   "change": -2,
+   "change": "new",
    "date": "2026-11-11"
   },
   {
    "rank": 741,
-   "app": "Man Ai Hairstyle Photo Editor",
+   "app": "Usgen: AI Group Moments Maker",
    "platform": "android",
-   "change": "new",
+   "change": 7,
    "date": "2026-11-11"
   },
   {
@@ -5218,492 +5218,492 @@
   },
   {
    "rank": 743,
-   "app": "Usgen: AI Group Moments Maker",
-   "platform": "android",
-   "change": 5,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 744,
    "app": "Riff: AI Outfit Editor",
    "platform": "android",
    "change": 17,
    "date": "2026-11-11"
   },
   {
-   "rank": 745,
+   "rank": 744,
    "app": "Tuni: AI Music Video Maker",
    "platform": "ios",
    "change": 26,
    "date": "2026-11-11"
   },
   {
-   "rank": 746,
+   "rank": 745,
    "app": "Rendio - AI Romance Studio",
    "platform": "android",
-   "change": 4,
+   "change": 5,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 746,
+   "app": "VidImg | AI Photo & Video",
+   "platform": "android",
+   "change": -27,
    "date": "2026-11-11"
   },
   {
    "rank": 747,
    "app": "AI Morii: AI Art Generator",
    "platform": "android",
-   "change": 8,
+   "change": 7,
    "date": "2026-11-11"
   },
   {
    "rank": 748,
-   "app": "VidImg | AI Photo & Video",
-   "platform": "android",
-   "change": -28,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 749,
    "app": "JhalakAI: AI Photo Generator",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 750,
+   "rank": 749,
    "app": "AI Hairstyle & Hair Cut Editor",
    "platform": "android",
    "change": -16,
    "date": "2026-11-11"
   },
   {
-   "rank": 751,
+   "rank": 750,
    "app": "Beautify: AI Hairstyle Try On",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 752,
+   "rank": 751,
    "app": "라씨매매비서-대한민국대표AI, 매매신호, 주식투자필수앱",
    "platform": "android",
    "change": -15,
    "date": "2026-11-11"
   },
   {
-   "rank": 753,
+   "rank": 752,
    "app": "Tattoo AI Design Generator－Ink",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 754,
+   "rank": 753,
    "app": "Blood Sugar Tracker-AI Health",
    "platform": "ios",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 755,
+   "rank": 754,
    "app": "Thrifty: AI Profit Identifier",
    "platform": "ios",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 756,
+   "rank": 755,
    "app": "Ailo: IA de delivery do iFood",
    "platform": "ios",
    "change": -4,
    "date": "2026-11-11"
   },
   {
-   "rank": 757,
+   "rank": 756,
    "app": "AI動画・音楽: DoReMi",
    "platform": "ios",
    "change": -4,
    "date": "2026-11-11"
   },
   {
-   "rank": 758,
+   "rank": 757,
    "app": "Blushy-Face Swap,AI Tool&Talk",
    "platform": "android",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 759,
+   "rank": 758,
    "app": "GameForge AI: Code & Build",
    "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
   {
+   "rank": 759,
+   "app": "AI画像生成アプリ！イラストや加工・編集ができる画像生成AI",
+   "platform": "ios",
+   "change": -16,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 760,
    "app": "Sprachmemos & Transkription",
    "platform": "ios",
-   "change": 7,
+   "change": 6,
    "date": "2026-11-11"
   },
   {
    "rank": 761,
-   "app": "AI画像生成アプリ！イラストや加工・編集ができる画像生成AI",
-   "platform": "ios",
-   "change": -17,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 762,
    "app": "Meki-推しと話せるAIチャット",
    "platform": "ios",
    "change": -5,
    "date": "2026-11-11"
   },
   {
-   "rank": 763,
+   "rank": 762,
    "app": "Base44 IDE, AI Code Assistant",
    "platform": "ios",
    "change": 17,
    "date": "2026-11-11"
   },
   {
-   "rank": 764,
+   "rank": 763,
    "app": "Artspire: AI Video Generator",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 765,
+   "rank": 764,
    "app": "MusicLab: AI Song &Cover Maker",
    "platform": "ios",
    "change": 34,
    "date": "2026-11-11"
   },
   {
-   "rank": 766,
+   "rank": 765,
    "app": "DALL E 3 AI Art Generator",
    "platform": "ios",
    "change": -90,
    "date": "2026-11-11"
   },
   {
-   "rank": 767,
+   "rank": 766,
    "app": "SUPPART: AI Image Creator",
    "platform": "android",
    "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 768,
+   "rank": 767,
    "app": "Med GPT: Assistant médical IA",
    "platform": "ios",
-   "change": 10,
+   "change": 11,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 768,
+   "app": "HomeGPT: AI Interior Design",
+   "platform": "android",
+   "change": 17,
    "date": "2026-11-11"
   },
   {
    "rank": 769,
-   "app": "HomeGPT: AI Interior Design",
-   "platform": "android",
-   "change": 18,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 770,
    "app": "Aviart: Gerador de Imagem AI",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
+   "rank": 770,
+   "app": "Artlume: AI Video Gen",
+   "platform": "android",
+   "change": 114,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 771,
    "app": "CreaPix - AI Photo Generator",
    "platform": "android",
-   "change": 35,
+   "change": 34,
    "date": "2026-11-11"
   },
   {
    "rank": 772,
-   "app": "Artlume: AI Video Gen",
-   "platform": "android",
-   "change": 113,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 773,
    "app": "AI画像生成・アニメイラストメーカー SUPPART",
    "platform": "ios",
    "change": -7,
    "date": "2026-11-11"
   },
   {
-   "rank": 774,
+   "rank": 773,
    "app": "Tunee : Musique et Clips IA",
    "platform": "ios",
    "change": 9,
    "date": "2026-11-11"
   },
   {
+   "rank": 774,
+   "app": "AI Listing Assistant",
+   "platform": "ios",
+   "change": 6,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 775,
    "app": "Yummy - Anime AI Chats Await",
    "platform": "android",
-   "change": 7,
+   "change": 6,
    "date": "2026-11-11"
   },
   {
    "rank": 776,
-   "app": "AI Listing Assistant",
-   "platform": "ios",
-   "change": 5,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 777,
    "app": "AI Avatar Creator & Cartoonify",
    "platform": "android",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 778,
+   "rank": 777,
    "app": "AI Home Design - Renovo",
    "platform": "android",
    "change": -2,
    "date": "2026-11-11"
   },
   {
-   "rank": 779,
-   "app": "KAI: Criador de Quadrinhos AI",
-   "platform": "ios",
-   "change": 13,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 780,
+   "rank": 778,
    "app": "Roomture: AI Interior Design",
    "platform": "android",
    "change": 13,
    "date": "2026-11-11"
   },
   {
-   "rank": 781,
+   "rank": 779,
+   "app": "KAI: Criador de Quadrinhos AI",
+   "platform": "ios",
+   "change": 14,
+   "date": "2026-11-11"
+  },
+  {
+   "rank": 780,
    "app": "PetLive：Pet's New Exp By AI",
    "platform": "android",
    "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 782,
+   "rank": 781,
    "app": "Genie AI - AI Video Generator",
    "platform": "ios",
    "change": -46,
    "date": "2026-11-11"
   },
   {
-   "rank": 783,
+   "rank": 782,
    "app": "Highfield Video AI",
    "platform": "ios",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 784,
+   "rank": 783,
    "app": "Design Home - AI Home Makeover",
    "platform": "android",
    "change": 1,
    "date": "2026-11-11"
   },
   {
-   "rank": 785,
+   "rank": 784,
    "app": "３秒敬語 - ３秒AIチャット",
    "platform": "ios",
    "change": 12,
    "date": "2026-11-11"
   },
   {
-   "rank": 786,
+   "rank": 785,
    "app": "Xpic Ai:Photo&Video Maker",
    "platform": "android",
-   "change": -7,
+   "change": -8,
    "date": "2026-11-11"
   },
   {
-   "rank": 787,
+   "rank": 786,
    "app": "AI Face Score: FaceChecker",
    "platform": "android",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 788,
+   "rank": 787,
    "app": "Magnet AI: Ton Coach Dating",
    "platform": "ios",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 789,
+   "rank": 788,
    "app": "Vimora: AI Video Generator",
    "platform": "android",
    "change": -1,
    "date": "2026-11-11"
   },
   {
-   "rank": 790,
+   "rank": 789,
    "app": "競馬予想AI - UMADAN",
    "platform": "ios",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 791,
+   "rank": 790,
    "app": "PixelChat - AI Character Chat",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 792,
+   "rank": 791,
    "app": "DealUp AI: Achats d’occasion",
    "platform": "ios",
-   "change": 30,
+   "change": 29,
    "date": "2026-11-11"
   },
   {
-   "rank": 793,
+   "rank": 792,
    "app": "Polymarket Alerta Previsão IA",
    "platform": "ios",
    "change": -4,
    "date": "2026-11-11"
   },
   {
-   "rank": 794,
+   "rank": 793,
    "app": "AI Makeup - Makeup Check AI",
    "platform": "android",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 795,
+   "rank": 794,
    "app": "1min AI",
    "platform": "ios",
    "change": 16,
    "date": "2026-11-11"
   },
   {
-   "rank": 796,
+   "rank": 795,
    "app": "Glora AI: Photo & Video Editor",
    "platform": "android",
    "change": 14,
    "date": "2026-11-11"
   },
   {
-   "rank": 797,
+   "rank": 796,
    "app": "画像生成AI",
    "platform": "ios",
-   "change": 16,
+   "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 798,
+   "rank": 797,
    "app": "AIイラスト - AIアニメ・画像生成・写真編集",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 799,
+   "rank": 798,
    "app": "NexFrame: AI Video Maker",
    "platform": "android",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 800,
+   "rank": 799,
    "app": "OnSpace AI: Mobile App Builder",
    "platform": "ios",
    "change": 16,
    "date": "2026-11-11"
   },
   {
+   "rank": 800,
+   "app": "Decor AI: Remodel Home Design",
+   "platform": "ios",
+   "change": 30,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 801,
    "app": "Nose Job Simulator AI: Nosefix",
    "platform": "android",
-   "change": -112,
+   "change": -113,
    "date": "2026-11-11"
   },
   {
    "rank": 802,
-   "app": "Decor AI: Remodel Home Design",
-   "platform": "ios",
-   "change": 29,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 803,
    "app": "Vibecode AI Website Builder",
    "platform": "ios",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 804,
+   "rank": 803,
    "app": "Plant Identifier - AI Plants",
    "platform": "android",
    "change": 15,
    "date": "2026-11-11"
   },
   {
-   "rank": 805,
+   "rank": 804,
    "app": "CoinScope: AI Identifier",
    "platform": "android",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 806,
+   "rank": 805,
    "app": "AI Receptionist — SkipCalls",
    "platform": "android",
-   "change": -12,
+   "change": -13,
    "date": "2026-11-11"
   },
   {
-   "rank": 807,
+   "rank": 806,
    "app": "Koi AI - AI Video Generator",
    "platform": "android",
    "change": -30,
    "date": "2026-11-11"
   },
   {
-   "rank": 808,
+   "rank": 807,
    "app": "Note AI: Smart Note Taker",
    "platform": "ios",
    "change": -287,
    "date": "2026-11-11"
   },
   {
-   "rank": 809,
+   "rank": 808,
    "app": "Manga Studio: AI Comic Maker",
    "platform": "android",
    "change": 15,
    "date": "2026-11-11"
   },
   {
+   "rank": 809,
+   "app": "rackline.ai - AI Deer Scoring",
+   "platform": "ios",
+   "change": 41,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 810,
    "app": "Freed: AI Medical Scribe",
    "platform": "ios",
-   "change": 15,
+   "change": 14,
    "date": "2026-11-11"
   },
   {
    "rank": 811,
    "app": "rackline.ai - AI Deer Scoring",
-   "platform": "ios",
-   "change": 40,
+   "platform": "android",
+   "change": 32,
    "date": "2026-11-11"
   },
   {
    "rank": 812,
-   "app": "rackline.ai - AI Deer Scoring",
-   "platform": "android",
-   "change": 32,
+   "app": "Mobile IDE：AIアプリ作成＆コード生成",
+   "platform": "ios",
+   "change": 39,
    "date": "2026-11-11"
   },
   {
@@ -5715,594 +5715,587 @@
   },
   {
    "rank": 814,
-   "app": "Mobile IDE：AIアプリ作成＆コード生成",
-   "platform": "ios",
-   "change": 38,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 815,
    "app": "Sparkle - Anime GF AI",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
+   "rank": 815,
+   "app": "ClipNova AI",
+   "platform": "android",
+   "change": 11,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 816,
    "app": "Dicte: Assistant IA réunions",
    "platform": "ios+android",
-   "change": 10,
+   "change": 9,
    "date": "2026-11-11"
   },
   {
    "rank": 817,
-   "app": "ClipNova AI",
-   "platform": "android",
-   "change": 10,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 818,
    "app": "Vidfig: AI Video Maker",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 819,
+   "rank": 818,
    "app": "Happy Space - AI Home Design",
    "platform": "android",
    "change": -29,
    "date": "2026-11-11"
   },
   {
-   "rank": 820,
+   "rank": 819,
    "app": "AI App Builder - FlutterPilot",
    "platform": "ios",
    "change": 12,
    "date": "2026-11-11"
   },
   {
+   "rank": 820,
+   "app": "SnapHome: Design Interiores IA",
+   "platform": "ios",
+   "change": 8,
+   "date": "2026-11-11"
+  },
+  {
    "rank": 821,
    "app": "画像生成AI AIイラスト AIアート - TryArt",
    "platform": "android",
-   "change": 9,
+   "change": 8,
    "date": "2026-11-11"
   },
   {
    "rank": 822,
-   "app": "SnapHome: Design Interiores IA",
-   "platform": "ios",
-   "change": 7,
-   "date": "2026-11-11"
-  },
-  {
-   "rank": 823,
    "app": "Reelify: AI Video Generator",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 824,
+   "rank": 823,
    "app": "Pixi Pro-AI Photo&Video Maker",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 825,
+   "rank": 824,
    "app": "DigitalDream - AI Girlfriend",
    "platform": "android",
    "change": -29,
    "date": "2026-11-11"
   },
   {
-   "rank": 826,
+   "rank": 825,
    "app": "Plaitoon: AI Character Chat",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 827,
+   "rank": 826,
    "app": "Lingua - AI Learn English",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 828,
+   "rank": 827,
    "app": "Dwellia: AI Space Design",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 829,
+   "rank": 828,
    "app": "modelai：AIアニメ・動画生成 オリキャラ イラスト",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 830,
+   "rank": 829,
    "app": "MoneyVoz - Música com IA",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 831,
+   "rank": 830,
    "app": "AI Content Detector, Humanizer",
    "platform": "ios",
    "change": 11,
    "date": "2026-11-11"
   },
   {
-   "rank": 832,
+   "rank": 831,
    "app": "Fambot: AI Family Assistant",
    "platform": "android",
    "change": 22,
    "date": "2026-11-11"
   },
   {
-   "rank": 833,
+   "rank": 832,
    "app": "JoyClip AI",
    "platform": "android",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 834,
+   "rank": 833,
    "app": "FastVid AI: Photo to Video",
    "platform": "android",
    "change": -32,
    "date": "2026-11-11"
   },
   {
-   "rank": 835,
+   "rank": 834,
    "app": "AI Hair & Outfit: Get The Look",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 836,
+   "rank": 835,
    "app": "Lovyn - AI You'll Love",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 837,
+   "rank": 836,
    "app": "Muvio - AI Music Video Maker",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 838,
+   "rank": 837,
    "app": "EpNova-AI Dramas Video Maker",
    "platform": "android",
    "change": -185,
    "date": "2026-11-11"
   },
   {
-   "rank": 839,
+   "rank": 838,
    "app": "Google Flow Music: AI Studio",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 840,
+   "rank": 839,
    "app": "Sogni Create AI Generator",
    "platform": "android",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 841,
+   "rank": 840,
    "app": "Vibe Code: AI Code Generator",
    "platform": "ios",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 842,
+   "rank": 841,
    "app": "RyzaChat:AI",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 843,
+   "rank": 842,
    "app": "MENS AI - 男性向けマッチングアプリ写真加工",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 844,
+   "rank": 843,
    "app": "VidEffect-AI Effects Maker",
    "platform": "android",
    "change": -9,
    "date": "2026-11-11"
   },
   {
-   "rank": 845,
+   "rank": 844,
    "app": "PreLoved AI: Vinted Listings",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 846,
+   "rank": 845,
    "app": "MedGPT",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 847,
+   "rank": 846,
    "app": "VidEffect: AI Video Effects",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 848,
+   "rank": 847,
    "app": "秘密のAI彼氏 - DoloPlanet",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 849,
+   "rank": 848,
    "app": "IF Drama Chat: AI Video",
    "platform": "ios",
    "change": -394,
    "date": "2026-11-11"
   },
   {
-   "rank": 850,
+   "rank": 849,
    "app": "Nano AI - for Ollama",
    "platform": "ios",
    "change": 10,
    "date": "2026-11-11"
   },
   {
-   "rank": 851,
+   "rank": 850,
    "app": "Plotwave - Immersive AI Chat",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 852,
+   "rank": 851,
    "app": "Receitei: Receitas com IA",
    "platform": "ios",
    "change": 9,
    "date": "2026-11-11"
   },
   {
-   "rank": 853,
+   "rank": 852,
    "app": "AI Garden Design: Umbau",
    "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 854,
+   "rank": 853,
    "app": "BOAT RACE AI - 競艇予想",
    "platform": "ios",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 855,
+   "rank": 854,
    "app": "Hedra AI: Criador de Vídeo IA",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 856,
+   "rank": 855,
    "app": "お宝鑑定 - 写真1枚で買取相場・値段をAI査定",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 857,
+   "rank": 856,
    "app": "DreamWeave AI:AI Art Generator",
    "platform": "ios",
    "change": -20,
    "date": "2026-11-11"
   },
   {
-   "rank": 858,
+   "rank": 857,
    "app": "Wine Whiz：AIソムリエのワインラベルスキャン・記録",
    "platform": "ios",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 859,
+   "rank": 858,
    "app": "Tune AI Music & Song Maker",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 860,
+   "rank": 859,
    "app": "Geeps: AI Chat BYOK",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 861,
+   "rank": 860,
    "app": "Fitty: AI Virtual Try-On",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 862,
+   "rank": 861,
    "app": "SpecFit - AI Glasses Try On",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 863,
+   "rank": 862,
    "app": "AI Website Builder",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 864,
+   "rank": 863,
    "app": "Smart Chatbot & AI Assistant",
    "platform": "ios",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 865,
+   "rank": 864,
    "app": "OnStage: AI Product Video & Ad",
    "platform": "ios",
-   "change": -435,
+   "change": -434,
    "date": "2026-11-11"
   },
   {
-   "rank": 866,
+   "rank": 865,
    "app": "LLMAPI: AI Chat & API",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 867,
+   "rank": 866,
    "app": "Legit Check AI",
    "platform": "ios",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 868,
+   "rank": 867,
    "app": "PixGen: AI Photo Editor",
    "platform": "android",
    "change": 2,
    "date": "2026-11-11"
   },
   {
-   "rank": 869,
+   "rank": 868,
    "app": "Kayo AI: Character Roleplay",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 870,
+   "rank": 869,
    "app": "Spaace It: AI Interior Design",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 871,
+   "rank": 870,
    "app": "Vyrid - AI Photo Maker",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 872,
+   "rank": 871,
    "app": "VividHub: AI Video Generator",
    "platform": "android",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 873,
+   "rank": 872,
    "app": "Komiko: Character AI, Art, OCs",
    "platform": "ios",
    "change": -100,
    "date": "2026-11-11"
   },
   {
-   "rank": 874,
+   "rank": 873,
    "app": "ReelCraft AI",
    "platform": "android",
    "change": 3,
    "date": "2026-11-11"
   },
   {
-   "rank": 875,
+   "rank": 874,
    "app": "Langzy: AI Language Tutor",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 876,
+   "rank": 875,
    "app": "Afterglow: AI Video Maker",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 877,
+   "rank": 876,
    "app": "Solmi: AI Music Video Maker",
    "platform": "android",
    "change": 4,
    "date": "2026-11-11"
   },
   {
-   "rank": 878,
+   "rank": 877,
    "app": "Solmi: AIミュージックビデオ作成",
    "platform": "ios",
    "change": -209,
    "date": "2026-11-11"
   },
   {
-   "rank": 879,
+   "rank": 878,
    "app": "Genloop: AI Video Generator",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 880,
+   "rank": 879,
    "app": "VIXO: AI Video Generator",
    "platform": "ios",
-   "change": -181,
+   "change": -183,
    "date": "2026-11-11"
   },
   {
-   "rank": 881,
+   "rank": 880,
    "app": "PicVivid: AI Video Maker",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 882,
+   "rank": 881,
    "app": "GGNote - AI耳コピ ギター・ベースTAB譜",
    "platform": "ios",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 883,
+   "rank": 882,
    "app": "Zuvia AI - Video Art Maker",
    "platform": "android",
    "change": 8,
    "date": "2026-11-11"
   },
   {
-   "rank": 884,
+   "rank": 883,
    "app": "Aight - Manage your AI Agents",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 885,
+   "rank": 884,
    "app": "Pixora: AI Photo Studio",
    "platform": "android",
    "change": 7,
    "date": "2026-11-11"
   },
   {
-   "rank": 886,
+   "rank": 885,
    "app": "AIマインドクリップ",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 887,
+   "rank": 886,
    "app": "AI Home & Room Design: DecoAI",
    "platform": "android",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 888,
+   "rank": 887,
    "app": "Cosyra: AI Coding Agents",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 889,
+   "rank": 888,
    "app": "Crosslist AI: Reseller Listing",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 890,
+   "rank": 889,
    "app": "AI Car Designer & Mods: Revvd",
    "platform": "ios",
    "change": "new",
    "date": "2026-11-11"
   },
   {
-   "rank": 891,
+   "rank": 890,
    "app": "AI Prompts: Midjourney & More",
    "platform": "android",
    "change": 6,
    "date": "2026-11-11"
   },
   {
-   "rank": 892,
+   "rank": 891,
    "app": "Make-It AI: App & Code Builder",
    "platform": "ios",
    "change": -23,
    "date": "2026-11-11"
   },
   {
-   "rank": 893,
+   "rank": 892,
    "app": "LumaSprig: AI Photo Motion",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 894,
+   "rank": 893,
    "app": "FrameBloom: AI Photo Stories",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 895,
+   "rank": 894,
    "app": "AI Interior Design: Home Plan",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 896,
+   "rank": 895,
    "app": "Storyla AI: Photo to Video",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 897,
+   "rank": 896,
    "app": "ECG Buddy | ECG Analysis AI",
    "platform": "android",
    "change": 5,
    "date": "2026-11-11"
   },
   {
-   "rank": 898,
+   "rank": 897,
    "app": "FantasyPic: AI Art & Video",
    "platform": "android",
    "change": 5,

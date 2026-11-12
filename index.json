@@ -13,9 +13,9 @@
   "change",
   "date"
  ],
- "last_updated": "2026-11-11",
+ "last_updated": "2026-11-12",
  "about": "Ascension (ascension.fyi) ranks consumer AI apps on one blended App Store and Google Play leaderboard, built from public store charts in 9 countries and updated daily at around 6 AM ET. Paid placements are always labeled and never change ranks. The data is free to reuse with credit under CC BY 4.0.",
- "citation": "Data powered by Ascension (ascension.fyi), ranks as of Nov 11, 2026.",
+ "citation": "Data powered by Ascension (ascension.fyi), ranks as of Nov 12, 2026.",
  "scheme": {
   "daily": "https://ascension.fyi/data/daily/YYYY-MM-DD.{csv,json}",
   "daily_latest": "https://ascension.fyi/data/daily/latest.{csv,json}",
@@ -24,14 +24,20 @@
  },
  "daily": [
   {
+   "date": "2026-11-12",
+   "rows": 908,
+   "csv": "https://ascension.fyi/data/daily/2026-11-12.csv",
+   "json": "https://ascension.fyi/data/daily/2026-11-12.json"
+  },
+  {
    "date": "2026-11-11",
-   "rows": 898,
+   "rows": 897,
    "csv": "https://ascension.fyi/data/daily/2026-11-11.csv",
    "json": "https://ascension.fyi/data/daily/2026-11-11.json"
   },
   {
    "date": "2026-11-10",
-   "rows": 905,
+   "rows": 904,
    "csv": "https://ascension.fyi/data/daily/2026-11-10.csv",
    "json": "https://ascension.fyi/data/daily/2026-11-10.json"
   },
@@ -169,6 +175,12 @@
   }
  ],
  "weekly": [
+  {
+   "date": "2026-11-09",
+   "rows": 908,
+   "csv": "https://ascension.fyi/data/weekly/2026-11-09.csv",
+   "json": "https://ascension.fyi/data/weekly/2026-11-09.json"
+  },
   {
    "date": "2026-11-02",
    "rows": 925,
