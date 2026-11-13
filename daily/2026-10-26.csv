@@ -1,63 +1,63 @@
 rank,app,platform,change,date
 1,ChatGPT,ios+android,0,2026-10-26
 2,Google Gemini,ios+android,0,2026-10-26
-3,Grok AI,ios+android,0,2026-10-26
-4,Dola: Smart AI Assistant,ios+android,0,2026-10-26
-5,Microsoft Copilot,ios+android,0,2026-10-26
-6,Meta AI,ios+android,0,2026-10-26
-7,Claude by Anthropic,ios+android,0,2026-10-26
+3,Microsoft Copilot,ios+android,0,2026-10-26
+4,Grok AI,ios+android,0,2026-10-26
+5,Meta AI,ios+android,0,2026-10-26
+6,Dola: Smart AI Assistant,ios+android,1,2026-10-26
+7,Perplexity - Ask Anything,ios+android,-1,2026-10-26
 8,Suno - AI Music & Songs Maker,ios+android,0,2026-10-26
-9,Perplexity - Ask Anything,ios+android,0,2026-10-26
-10,Remini - AI Photo Enhancer,ios+android,0,2026-10-26
-11,VibeShort: AI Dramas & Reels,ios+android,0,2026-10-26
-12,Seekee - AI Search & Assistant,android,0,2026-10-26
-13,PolyBuzz: Chat with AI Friends,android,0,2026-10-26
-14,Muse from Meta,ios+android,0,2026-10-26
-15,Facetune: Photo & Video Editor,ios,0,2026-10-26
-16,"zeta: AI Chat, Story, Play",ios+android,0,2026-10-26
-17,Chai: Chat AI Platform,android,0,2026-10-26
-18,Kling AI: AI Image&Video Maker,ios+android,0,2026-10-26
-19,Luzia: AI Assistant & Chat,android,0,2026-10-26
-20,Manus AI,ios+android,2,2026-10-26
-21,Supernova AI Spoken English,ios+android,-1,2026-10-26
-22,AI Chatbot - Nova,ios+android,-1,2026-10-26
-23,Mivora AI-Video & Image Maker,android,0,2026-10-26
-24,Hailuo AI: Image&Video Maker,android,1,2026-10-26
-25,Moises: The Musician's AI App,android,-1,2026-10-26
-26,Speak: Language Learning,ios+android,1,2026-10-26
-27,Grok Bot,ios+android,-1,2026-10-26
-28,BabyGenie - AI Baby Generator,android,1,2026-10-26
-29,ChatOn AI - Chat Bot Assistant,ios+android,-1,2026-10-26
-30,Captions: AI Edits Your Video,ios,1,2026-10-26
-31,Nexus - AI Video Generator,android,1,2026-10-26
-32,Runway: AI Image & Video,ios,-2,2026-10-26
-33,MePic－AI Photo Video Generator,android,0,2026-10-26
-34,Chatbot App - AI Assistant,ios+android,0,2026-10-26
-35,Deepsearch AI Search Assistant,android,0,2026-10-26
-36,Plaud: AI Work Companion,ios+android,0,2026-10-26
-37,SeaHaze - AI Chat & Friends,android,0,2026-10-26
-38,Afizzy - AI Character Chat,android,0,2026-10-26
-39,MiraiMind - Create Your Own AI,android,0,2026-10-26
-40,Dulci: AI Interactive Story,android,0,2026-10-26
-41,Crushie Al: Romance AI Chat,android,0,2026-10-26
-42,キャラぷ - 物語はキミ次第・AIチャット,ios+android,0,2026-10-26
-43,Whispy AI: Create Your Story,ios+android,0,2026-10-26
-44,WHIF: Romance & BL AI Chat,android,0,2026-10-26
-45,AI Chat - Ask your AI Chatbot,android,0,2026-10-26
-46,AI Music Video Maker - Mivi,android,0,2026-10-26
-47,Emochi: Chat With Character,android,0,2026-10-26
-48,Google Flow,ios+android,0,2026-10-26
-49,Tipsy: Live Your Story,android,1,2026-10-26
-50,Vidix-AI Photo Video Generator,android,2,2026-10-26
-51,Cantina: AI Video & Characters,ios,2,2026-10-26
-52,AI Catch: AI Video Generator,ios,-1,2026-10-26
-53,Joko I Shopping IA & cashback,ios,1,2026-10-26
-54,Citrus 1 Tap Photo Enhancer AI,ios+android,1,2026-10-26
-55,Lynix: AI Photo & Video Maker,android,1,2026-10-26
-56,AI Photo Beauty Editor Studio,android,1,2026-10-26
-57,Framly - AI Photo Video Maker,android,1,2026-10-26
-58,Beatron - AI Music Maker,android,1,2026-10-26
-59,Enjoy - AI Town,android,1,2026-10-26
+9,Remini - AI Photo Enhancer,ios+android,0,2026-10-26
+10,Claude by Anthropic,ios+android,0,2026-10-26
+11,PolyBuzz: Chat with AI Friends,android,0,2026-10-26
+12,Facetune: Photo & Video Editor,ios,0,2026-10-26
+13,AI Chatbot - Nova,ios+android,0,2026-10-26
+14,Seekee - AI Search & Assistant,android,0,2026-10-26
+15,VibeShort: AI Dramas & Reels,ios+android,0,2026-10-26
+16,Chai: Chat AI Platform,android,0,2026-10-26
+17,AI Music Video Maker - Mivi,android,1,2026-10-26
+18,Emochi: Chat With Character,android,-1,2026-10-26
+19,Kling AI: AI Image&Video Maker,ios+android,0,2026-10-26
+20,Deepsearch AI Search Assistant,android,0,2026-10-26
+21,Muse from Meta,ios+android,0,2026-10-26
+22,Manus AI,ios+android,3,2026-10-26
+23,AI Chat - Ask your AI Chatbot,android,-1,2026-10-26
+24,"zeta: AI Chat, Story, Play",ios+android,-1,2026-10-26
+25,ChatOn AI - Chat Bot Assistant,ios+android,-1,2026-10-26
+26,Luzia: AI Assistant & Chat,android,0,2026-10-26
+27,Moises: The Musician's AI App,android,0,2026-10-26
+28,Captions: AI Edits Your Video,ios,2,2026-10-26
+29,Speak: Language Learning,ios+android,3,2026-10-26
+30,Mivora AI-Video & Image Maker,android,1,2026-10-26
+31,Cantina: AI Video & Characters,ios,-2,2026-10-26
+32,Hailuo AI: Image&Video Maker,android,1,2026-10-26
+33,Supernova AI Spoken English,ios+android,1,2026-10-26
+34,Joko I Shopping IA & cashback,ios,2,2026-10-26
+35,Vidix-AI Photo Video Generator,android,0,2026-10-26
+36,Tipsy: Live Your Story,android,1,2026-10-26
+37,BabyGenie - AI Baby Generator,android,1,2026-10-26
+38,Google Flow,ios+android,1,2026-10-26
+39,Chatbot App - AI Assistant,ios+android,1,2026-10-26
+40,MePic－AI Photo Video Generator,android,2,2026-10-26
+41,Citrus 1 Tap Photo Enhancer AI,ios+android,3,2026-10-26
+42,Runway: AI Image & Video,ios,1,2026-10-26
+43,Plaud: AI Work Companion,ios+android,2,2026-10-26
+44,AI Catch: AI Video Generator,ios,-3,2026-10-26
+45,Nexus - AI Video Generator,android,1,2026-10-26
+46,Grok Bot,ios+android,1,2026-10-26
+47,MiraiMind - Create Your Own AI,android,2,2026-10-26
+48,Beatron - AI Music Maker,android,0,2026-10-26
+49,Lynix: AI Photo & Video Maker,android,1,2026-10-26
+50,AI Photo Beauty Editor Studio,android,3,2026-10-26
+51,キャラぷ - 物語はキミ次第・AIチャット,ios+android,0,2026-10-26
+52,Enjoy - AI Town,android,0,2026-10-26
+53,Crushie Al: Romance AI Chat,android,1,2026-10-26
+54,SeaHaze - AI Chat & Friends,android,1,2026-10-26
+55,Afizzy - AI Character Chat,android,1,2026-10-26
+56,Framly - AI Photo Video Maker,android,2,2026-10-26
+57,WHIF: Romance & BL AI Chat,android,0,2026-10-26
+58,Whispy AI: Create Your Story,ios+android,1,2026-10-26
+59,Dulci: AI Interactive Story,android,1,2026-10-26
 60,XTranslator Live: AI Translate,android,2,2026-10-26
 61,TizzChat: Craft Your World,android,0,2026-10-26
 62,Equal AI - Call Assistant,android,1,2026-10-26

@@ -1,69 +1,69 @@
 rank,app,platform,change,date
 1,ChatGPT,ios+android,0,2026-10-22
 2,Google Gemini,ios+android,0,2026-10-22
-3,Grok AI,ios+android,0,2026-10-22
-4,Dola: Smart AI Assistant,ios+android,0,2026-10-22
-5,Microsoft Copilot,ios+android,0,2026-10-22
-6,Meta AI,ios+android,0,2026-10-22
-7,Claude by Anthropic,ios+android,0,2026-10-22
-8,Suno - AI Music & Songs Maker,ios+android,0,2026-10-22
-9,Perplexity - Ask Anything,ios+android,0,2026-10-22
-10,Remini - AI Photo Enhancer,ios+android,0,2026-10-22
-11,VibeShort: AI Dramas & Reels,ios+android,0,2026-10-22
-12,Seekee - AI Search & Assistant,android,0,2026-10-22
-13,Chai: Chat AI Platform,ios+android,0,2026-10-22
-14,Muse from Meta,ios+android,0,2026-10-22
-15,PolyBuzz: Chat with AI Friends,android,0,2026-10-22
-16,Facetune: Photo & Video Editor,ios,0,2026-10-22
-17,zeta - AIキャラ・あなたの推しとロールプレイチャット,ios+android,1,2026-10-22
-18,Crafto AI - Status & Quotes,android,-1,2026-10-22
-19,Kling AI: AI Image&Video Maker,android,0,2026-10-22
-20,Luzia: AI Assistant & Chat,android,0,2026-10-22
-21,AI Chatbot - Nova,ios+android,1,2026-10-22
-22,Manus AI,ios+android,1,2026-10-22
-23,Supernova AI Spoken English,ios+android,1,2026-10-22
-24,AI Maker: Photo Video Filters,ios,-3,2026-10-22
-25,Moises: The Musician's AI App,android,4,2026-10-22
-26,Mivora AI-Video & Image Maker,android,2,2026-10-22
-27,Grok Bot,ios+android,-1,2026-10-22
-28,Runway: AI Image & Video,ios,-3,2026-10-22
-29,BabyGenie - AI Baby Generator,android,3,2026-10-22
-30,Hailuo AI: Image&Video Maker,android,1,2026-10-22
-31,ChatOn AI - Chat Bot Assistant,ios+android,-1,2026-10-22
-32,Speak English with Loora AI,ios+android,48,2026-10-22
-33,Captions: AI Edits Your Video,ios,0,2026-10-22
-34,Chatbot App - AI Assistant,ios+android,0,2026-10-22
-35,MePic－AI Photo Video Generator,android,2,2026-10-22
-36,Nexus - AI Video Generator,android,-1,2026-10-22
-37,Deepsearch AI Search Assistant,android,-1,2026-10-22
-38,Speak: Language Learning,android,-11,2026-10-22
-39,Plaud: AI Work Companion,ios+android,-1,2026-10-22
-40,SeaHaze - AI Chat & Friends,android,-1,2026-10-22
-41,AI Photo Try On - Clothes Swap,android,0,2026-10-22
-42,MiraiMind - Create Your Own AI,android,-2,2026-10-22
-43,Afizzy - AI Character Chat,android,0,2026-10-22
-44,Whispy AI: Create Your Story,ios+android,0,2026-10-22
-45,Dulci: AI Interactive Story,android,1,2026-10-22
-46,キャラぷ - 物語はキミ次第・AIチャット,ios+android,-1,2026-10-22
-47,AI Photo Editor: Art Studio,android,0,2026-10-22
-48,Crushie Al: Romance AI Chat,android,0,2026-10-22
-49,AI Photo Studio: Art Magic,android,1,2026-10-22
-50,WHIF: Romance & BL AI Chat,android,-1,2026-10-22
-51,Pocket - AI Personal Assistant,ios+android,0,2026-10-22
-52,Emochi: Chat With Character,android,1,2026-10-22
-53,AI Music Video Maker - Mivi,android,-1,2026-10-22
-54,Gauth: AI Study Companion,ios+android,25,2026-10-22
-55,Tipsy: Live Your Story,ios+android,-1,2026-10-22
-56,Gemini Notebook,android,-1,2026-10-22
-57,Google Flow,ios+android,-1,2026-10-22
-58,Vidix-AI Photo Video Generator,android,-1,2026-10-22
-59,AI Catch: AI Video Generator,ios,43,2026-10-22
-60,Refoto: AI Image & Video Maker,android,-1,2026-10-22
-61,Jowzi - l'IA pour vos courses,ios,-3,2026-10-22
-62,Scalio - Run Marketing 24/7,ios+android,-1,2026-10-22
-63,AI Photo Beauty Editor Studio,android,-3,2026-10-22
-64,Lurnia: AI Language Tutor,android,-2,2026-10-22
-65,TizzChat: Craft Your World,android,-2,2026-10-22
+3,Microsoft Copilot,ios+android,0,2026-10-22
+4,Grok AI,ios+android,0,2026-10-22
+5,Meta AI,ios+android,0,2026-10-22
+6,Remini - AI Photo Enhancer,ios+android,0,2026-10-22
+7,Dola: Smart AI Assistant,ios+android,0,2026-10-22
+8,Perplexity - Ask Anything,ios+android,1,2026-10-22
+9,Suno - AI Music & Songs Maker,ios+android,-1,2026-10-22
+10,Claude by Anthropic,ios+android,0,2026-10-22
+11,AI Chatbot - Nova,ios+android,0,2026-10-22
+12,PolyBuzz: Chat with AI Friends,android,0,2026-10-22
+13,Facetune: Photo & Video Editor,ios,0,2026-10-22
+14,Chai: Chat AI Platform,ios+android,0,2026-10-22
+15,Gauth: AI Study Companion,ios+android,64,2026-10-22
+16,Seekee - AI Search & Assistant,android,-1,2026-10-22
+17,Crafto AI - Status & Quotes,android,-1,2026-10-22
+18,VibeShort: AI Dramas & Reels,ios+android,-1,2026-10-22
+19,Emochi: Chat With Character,android,-1,2026-10-22
+20,AI Music Video Maker - Mivi,android,-1,2026-10-22
+21,Kling AI: AI Image&Video Maker,android,-1,2026-10-22
+22,Deepsearch AI Search Assistant,android,-1,2026-10-22
+23,Muse from Meta,ios+android,-1,2026-10-22
+24,zeta - AIキャラ・あなたの推しとロールプレイチャット,ios+android,0,2026-10-22
+25,Luzia: AI Assistant & Chat,android,0,2026-10-22
+26,Manus AI,ios+android,0,2026-10-22
+27,ChatOn AI - Chat Bot Assistant,ios+android,-4,2026-10-22
+28,Moises: The Musician's AI App,android,-1,2026-10-22
+29,Captions: AI Edits Your Video,ios,-1,2026-10-22
+30,Gemini Notebook,android,-1,2026-10-22
+31,Mivora AI-Video & Image Maker,android,-1,2026-10-22
+32,Hailuo AI: Image&Video Maker,android,-1,2026-10-22
+33,Supernova AI Spoken English,ios+android,1,2026-10-22
+34,Speak English with Loora AI,ios+android,46,2026-10-22
+35,Speak: Language Learning,android,-3,2026-10-22
+36,Tipsy: Live Your Story,ios+android,-3,2026-10-22
+37,BabyGenie - AI Baby Generator,android,1,2026-10-22
+38,Vidix-AI Photo Video Generator,android,-2,2026-10-22
+39,Runway: AI Image & Video,ios,-4,2026-10-22
+40,Google Flow,ios+android,0,2026-10-22
+41,MePic－AI Photo Video Generator,android,0,2026-10-22
+42,Chatbot App - AI Assistant,ios+android,-3,2026-10-22
+43,AI Maker: Photo Video Filters,ios,-6,2026-10-22
+44,Plaud: AI Work Companion,ios+android,-2,2026-10-22
+45,Grok Bot,ios+android,-1,2026-10-22
+46,Refoto: AI Image & Video Maker,android,-3,2026-10-22
+47,AI Catch: AI Video Generator,ios,55,2026-10-22
+48,Nexus - AI Video Generator,android,-3,2026-10-22
+49,MiraiMind - Create Your Own AI,android,-3,2026-10-22
+50,キャラぷ - 物語はキミ次第・AIチャット,ios+android,-2,2026-10-22
+51,Scalio - Run Marketing 24/7,ios+android,0,2026-10-22
+52,Crushie Al: Romance AI Chat,android,-3,2026-10-22
+53,SeaHaze - AI Chat & Friends,android,-3,2026-10-22
+54,WHIF: Romance & BL AI Chat,android,-2,2026-10-22
+55,AI Photo Beauty Editor Studio,android,-2,2026-10-22
+56,Jowzi - l'IA pour vos courses,ios,-9,2026-10-22
+57,Whispy AI: Create Your Story,ios+android,-2,2026-10-22
+58,AI Photo Try On - Clothes Swap,android,-2,2026-10-22
+59,AI Photo Studio: Art Magic,android,-1,2026-10-22
+60,AI Photo Editor: Art Studio,android,-3,2026-10-22
+61,Afizzy - AI Character Chat,android,-2,2026-10-22
+62,Lurnia: AI Language Tutor,android,-2,2026-10-22
+63,Pocket - AI Personal Assistant,ios+android,-1,2026-10-22
+64,TizzChat: Craft Your World,android,-3,2026-10-22
+65,Dulci: AI Interactive Story,android,-2,2026-10-22
 66,Equal AI - Call Assistant,android,-2,2026-10-22
 67,Photora - AI Family Maker,android,-2,2026-10-22
 68,Usgen: AI Group Moments Maker,android,-2,2026-10-22
