@@ -9,7 +9,7 @@ rank,app,platform,change,date
 8,Perplexity - Ask Anything,ios+android,1,2026-11-15
 9,Emochi: Chat With Character,android,2,2026-11-15
 10,Remini - AI Photo Enhancer,ios+android,0,2026-11-15
-11,Microsoft Copilot,android,-5,2026-11-15
+11,Microsoft Copilot,ios+android,-5,2026-11-15
 12,Seekee - AI Search & Assistant,android,2,2026-11-15
 13,VibeShort: AI Short Dramas,ios+android,-1,2026-11-15
 14,Muse from Meta,ios+android,-1,2026-11-15
@@ -379,7 +379,7 @@ rank,app,platform,change,date
 378,Honeydew: Recipe & Cookbook AI,ios,2,2026-11-15
 379,AI Home Design - Ruma,ios,-3,2026-11-15
 380,Eliott | Tuteur IA & Révisions,ios,-2,2026-11-15
-381,Kiva: AI Product Video & Ads,ios+android,8,2026-11-15
+381,Kiva: AI商品動画・広告メーカー,ios+android,8,2026-11-15
 382,Vividix - AI Memory Maker,android,3,2026-11-15
 383,Pippa - AI Roleplay & Chat,android,-18,2026-11-15
 384,ReelFig: AI Video Generator,android,0,2026-11-15
